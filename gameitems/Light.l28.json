@@ -5,33 +5,33 @@
       "y": 808.96875
     },
     "height": null,
-    "falloff_radius": 30.0,
-    "falloff_power": 1.0,
+    "falloff_radius": 50.0,
+    "falloff_power": 3.0,
     "status": 0,
     "state": null,
-    "color": "#ff00dfff",
-    "color2": "#ff00ffff",
+    "color": "#000000ff",
+    "color2": "#000040ff",
     "is_timer_enabled": false,
     "timer_interval": 100,
     "blink_pattern": "10",
-    "off_image": "SouthParkPFShadows",
+    "off_image": "southparkpf",
     "blink_interval": 125,
-    "intensity": 6.0,
-    "transmission_scale": 0.5,
+    "intensity": 80.0,
+    "transmission_scale": 0.0,
     "surface": "",
     "name": "l28",
     "is_backglass": false,
     "depth_bias": 0.0,
-    "fade_speed_up": 0.2,
-    "fade_speed_down": 0.06,
-    "is_bulb_light": false,
+    "fade_speed_up": 3.0,
+    "fade_speed_down": 3.0,
+    "is_bulb_light": true,
     "is_image_mode": false,
     "show_bulb_mesh": false,
     "has_static_bulb_mesh": true,
     "show_reflection_on_ball": true,
     "mesh_radius": 20.0,
-    "bulb_modulate_vs_add": 0.9,
-    "bulb_halo_height": 28.0,
+    "bulb_modulate_vs_add": 1.0,
+    "bulb_halo_height": -0.03,
     "shadows": null,
     "fader": null,
     "visible": null,
@@ -46,8 +46,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 742.4831,
@@ -59,8 +59,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 739.0805,
@@ -72,8 +72,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 736.01587,
@@ -85,8 +85,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 712.42615,
@@ -98,8 +98,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 711.28107,
@@ -111,8 +111,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 712.9745,
@@ -124,8 +124,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 716.13855,
@@ -137,8 +137,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 735.1738,
@@ -150,8 +150,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 737.7591,
@@ -163,8 +163,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 739.8642,
@@ -176,8 +176,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 740.22345,
@@ -189,8 +189,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 746.0497,
@@ -202,8 +202,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       }
     ]
   }

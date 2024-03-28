@@ -1,7 +1,7 @@
 {
   "Rubber": {
     "height": 162.4,
-    "hit_height": null,
+    "hit_height": 162.4,
     "thickness": 5,
     "hit_event": false,
     "material": "Rubber Black",
@@ -22,8 +22,8 @@
     "rot_y": 0.0,
     "rot_z": 0.0,
     "is_reflection_enabled": false,
-    "physics_material": null,
-    "overwrite_physics": null,
+    "physics_material": "",
+    "overwrite_physics": true,
     "points": [
       {
         "x": 40.25,
@@ -35,8 +35,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 29.431274,
@@ -48,8 +48,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 24.949997,
@@ -61,8 +61,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 29.431274,
@@ -74,8 +74,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 40.25,
@@ -87,8 +87,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 51.068726,
@@ -100,8 +100,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 55.550003,
@@ -113,8 +113,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
         "x": 51.068726,
@@ -126,8 +126,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       }
     ]
   }

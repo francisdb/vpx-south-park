@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Playfield",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Red Rubber",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Plastic",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Default",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Metal",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "PlasticTrigger",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Plastic with an image",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Metal0.8",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Peg",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Rubber White",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Plastic Cobalt Red",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Plastic White",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Metal0.2",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Plastic with opaque image",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Rubber Black",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Yellow",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Ramps",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "RampsTexture",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "PegsWhite",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Plastic with an image1",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  },
+  {
+    "name": "Red Rubber1",
+    "elasticity": 0.0,
+    "elasticity_falloff": 0.0,
+    "friction": 0.0,
+    "scatter_angle": 0.0
+  }
+]

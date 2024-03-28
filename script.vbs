@@ -14,21 +14,6 @@
 'Gigalula, Kiwi and JP for helping me while building this table
 '*********************************************************************
 
-'V1.2
-'Rebuild KennyKickers
-'Rebuild CartmanKickers
-'Changed Rolling Sound
-'Added RampRollingSounds
-'Bug Fixes
-'Small Changes With Light
-
-'V1.1
-'Fix for "do while" error (thx jp!)
-
-'V1.0
-'First Release For VP10.0
-
-
 
 Option Explicit
 Randomize
@@ -45,7 +30,7 @@ LoadVPM "01560000", "sega.VBS", 3.36
 '********************
 
 Const cGameName = "sprk_103"
-Const UseSolenoids = 1
+Const UseSolenoids = 2
 Const UseLamps = 1
 Const SSolenoidOn = "SolOn"
 Const SSolenoidOff = "SolOff"
@@ -64,12 +49,12 @@ SlingPlastics = 1			'Change to 1 for "Yes, i hate Timmy and Butters"
 
 
 
-Dim bsTrough, PlungerIM, TopVuk, SuperVuk, nBall, aBall, SlingPlastics
+Dim bsTrough, PlungerIM, TopVuk, SuperVuk, cBall, SlingPlastics
 
 
 Set LampCallback = GetRef("UpdateMultipleLamps")
 Set MotorCallback = GetRef("RealTimeUpdates")
-Set nBall = ckicker.createball
+Set cBall = ckicker.createball
 	ckicker.Kick 0, 0
 If SlingPlastics = 1 then
 	PlasticSlingshotLinks.Image = "PlasticSlingShotStan"
@@ -195,67 +180,13 @@ End Sub
 'CartmanVuk
 '*********
 
-Dim cBall, cBall1, cBall2, cBall3, cBall4, cBall5, cBall6, cBall7
+Dim aBall
 
-Sub CartmanKickerHole_Hit()
+Sub CartmanKickerHole_Hit
+'	BallCount = BallCount -1
     RandomSoundCartman
-    Set cBall = ActiveBall:Me.TimerEnabled = 1
-    vpmTimer.PulseSw 48
-    vpmTimer.AddTimer 1200, "SuperVukAddBall'"
-    Me.Enabled = 0
-End Sub
-
-Sub CartmanKickerHole1_Hit()
-    RandomSoundCartman
-    Set cBall1 = ActiveBall:Me.TimerEnabled = 1
-    vpmTimer.PulseSw 48
-    vpmTimer.AddTimer 1200, "SuperVukAddBall'"
-    Me.Enabled = 0
-End Sub
-
-Sub CartmanKickerHole2_Hit()
-    RandomSoundCartman
-    Set cBall2 = ActiveBall:Me.TimerEnabled = 1
-    vpmTimer.PulseSw 48
-    vpmTimer.AddTimer 1200, "SuperVukAddBall'"
-    Me.Enabled = 0
-End Sub
-
-Sub CartmanKickerHole3_Hit()
-    RandomSoundCartman
-    Set cBall3 = ActiveBall:Me.TimerEnabled = 1
-    vpmTimer.PulseSw 48
-    vpmTimer.AddTimer 1200, "SuperVukAddBall'"
-    Me.Enabled = 0
-End Sub
-
-Sub CartmanKickerHole4_Hit()
-    RandomSoundCartman
-    Set cBall4 = ActiveBall:Me.TimerEnabled = 1
-    vpmTimer.PulseSw 48
-    vpmTimer.AddTimer 1200, "SuperVukAddBall'"
-    Me.Enabled = 0
-End Sub
-
-Sub CartmanKickerHole5_Hit()
-    RandomSoundCartman
-    Set cBall5 = ActiveBall:Me.TimerEnabled = 1
-    vpmTimer.PulseSw 48
-    vpmTimer.AddTimer 1200, "SuperVukAddBall'"
-    Me.Enabled = 0
-End Sub
-
-Sub CartmanKickerHole6_Hit()
-    RandomSoundCartman
-    Set cBall6 = ActiveBall:Me.TimerEnabled = 1
-    vpmTimer.PulseSw 48
-    vpmTimer.AddTimer 1200, "SuperVukAddBall'"
-    Me.Enabled = 0
-End Sub
-
-Sub CartmanKickerHole7_Hit()
-    RandomSoundCartman
-    Set cBall7 = ActiveBall:Me.TimerEnabled = 1
+    Set aBall = ActiveBall
+    Me.TimerEnabled = 1
     vpmTimer.PulseSw 48
     vpmTimer.AddTimer 1200, "SuperVukAddBall'"
     Me.Enabled = 0
@@ -268,81 +199,11 @@ End Sub
 
 
 Sub CartmanKickerHole_Timer
-    Do While cBall.Z > 0
-        cBall.Z = cBall.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
-    Me.TimerEnabled = 0
-    Me.Enabled = 1
-End Sub
-
-Sub CartmanKickerHole1_Timer
-    Do While cBall1.Z > 0
-        cBall1.Z = cBall1.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
-    Me.TimerEnabled = 0
-    Me.Enabled = 1
-End Sub
-
-Sub CartmanKickerHole2_Timer
-    Do While cBall2.Z > 0
-        cBall2.Z = cBall2.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
-    Me.TimerEnabled = 0
-    Me.Enabled = 1
-End Sub
-
-Sub CartmanKickerHole3_Timer
-    Do While cBall3.Z > 0
-        cBall3.Z = cBall3.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
-    Me.TimerEnabled = 0
-    Me.Enabled = 1
-End Sub
-
-Sub CartmanKickerHole4_Timer
-    Do While cBall4.Z > 0
-        cBall4.Z = cBall4.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
-    Me.TimerEnabled = 0
-    Me.Enabled = 1
-End Sub
-
-Sub CartmanKickerHole5_Timer
-    Do While cBall5.Z > 0
-        cBall5.Z = cBall5.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
-    Me.TimerEnabled = 0
-    Me.Enabled = 1
-End Sub
-
-Sub CartmanKickerHole6_Timer
-    Do While cBall6.Z > 0
-        cBall6.Z = cBall6.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
-    Me.TimerEnabled = 0
-    Me.Enabled = 1
-End Sub
-
-Sub CartmanKickerHole7_Timer
-    Do While cBall7.Z > 0
-        cBall7.Z = cBall7.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
+'    Do While aBall.Z > 0
+'        aBall.Z = aBall.Z -5
+'        Exit Sub
+'    Loop
+    vpmtimer.addtimer 200, Me.DestroyBall
     Me.TimerEnabled = 0
     Me.Enabled = 1
 End Sub
@@ -358,7 +219,7 @@ End Sub
 Dim KennySolLeft
 Dim KennySolRight
 
-Dim kBall, kBall1, kBall2, kBall3, kBall4, kBall5
+
 
 Sub KennyLeft(Enabled)
 	If Enabled then
@@ -430,25 +291,25 @@ End Sub
 
 Sub KennyKickerHole_Hit()
     RandomSoundKenny
-    Set kBall = ActiveBall:Me.TimerEnabled = 1
+    Set aBall = ActiveBall:Me.TimerEnabled = 1
     vpmTimer.PulseSw 44
     vpmTimer.AddTimer 2000, "SuperVukAddBall'"
     Me.Enabled = 0
 End Sub
 
 Sub KennyKickerHole_Timer()
-    Do While kball.Z > 0
-        kBall.Z = kBall.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
+'    Do While aBall.Z > 0
+'        aBall.Z = aBall.Z -5
+'        Exit Sub
+'    Loop
+   vpmtimer.addtimer 100, Me.DestroyBall
     Me.TimerEnabled = 0
     Me.Enabled = 1
 End Sub
 
 Sub KennyKickerHole1_Hit()
     RandomSoundKenny
-    Set kBall1 = ActiveBall:Me.TimerEnabled = 1
+    Set aBall = ActiveBall:Me.TimerEnabled = 1
 	vpmTimer.PulseSw 44
     vpmTimer.AddTimer 2000, "SuperVukAddBall'"
     Me.Enabled = 0
@@ -456,89 +317,32 @@ End Sub
 
 
 Sub KennyKickerHole1_Timer()
-    Do While kBall1.Z > 0
-        kBall1.Z = kBall1.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
+'    Do While aBall.Z > 0
+'        aBall.Z = aBall.Z -5
+'        Exit Sub
+'    Loop
+    vpmtimer.addtimer 100, Me.DestroyBall
     Me.TimerEnabled = 0
     Me.Enabled = 1
 End Sub
 
 Sub KennyKickerHole2_Hit()
     RandomSoundKenny
-    Set kBall2 = ActiveBall:Me.TimerEnabled = 1
+    Set aBall = ActiveBall:Me.TimerEnabled = 1
     vpmTimer.PulseSw 44
     vpmTimer.AddTimer 2000, "SuperVukAddBall'"
     Me.Enabled = 0
 End Sub
 
 Sub KennyKickerHole2_Timer()
-    Do While kBall2.Z > 0
-        kBall2.Z = kBall2.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
+'    Do While aBall.Z > 0
+'        aBall.Z = aBall.Z -5
+'        Exit Sub
+'    Loop
+    vpmtimer.addtimer 100, Me.DestroyBall
     Me.TimerEnabled = 0
     Me.Enabled = 1
 End Sub
-
-Sub KennyKickerHole3_Hit()
-    RandomSoundKenny
-    Set kBall3 = ActiveBall:Me.TimerEnabled = 1
-    vpmTimer.PulseSw 44
-    vpmTimer.AddTimer 2000, "SuperVukAddBall'"
-    Me.Enabled = 0
-End Sub
-
-Sub KennyKickerHole3_Timer()
-    Do While kBall3.Z > 0
-        kBall3.Z = kBall3.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
-    Me.TimerEnabled = 0
-    Me.Enabled = 1
-End Sub
-
-
-Sub KennyKickerHole4_Hit()
-    RandomSoundKenny
-    Set kBall4 = ActiveBall:Me.TimerEnabled = 1
-    vpmTimer.PulseSw 44
-    vpmTimer.AddTimer 2000, "SuperVukAddBall'"
-    Me.Enabled = 0
-End Sub
-
-Sub KennyKickerHole4_Timer()
-    Do While kBall4.Z > 0
-        kBall4.Z = kBall4.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
-    Me.TimerEnabled = 0
-    Me.Enabled = 1
-End Sub
-
-
-Sub KennyKickerHole5_Hit()
-    RandomSoundKenny
-    Set kBall5 = ActiveBall:Me.TimerEnabled = 1
-    vpmTimer.PulseSw 44
-    vpmTimer.AddTimer 2000, "SuperVukAddBall'"
-    Me.Enabled = 0
-End Sub
-
-Sub KennyKickerHole5_Timer()
-    Do While kBall5.Z > 0
-        kBall5.Z = kBall5.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
-    Me.TimerEnabled = 0
-    Me.Enabled = 1
-End Sub
-
 
 Sub BallTrigger_Hit()
 	ActiveBall.VelZ = +15
@@ -603,11 +407,11 @@ End Sub
 
 
 Sub ToiletKicker_Timer
-    Do While aBall.Z > 0
-        aBall.Z = aBall.Z -5
-        Exit Sub
-    Loop
-    Me.DestroyBall
+'    Do While aBall.Z > 0
+'        aBall.Z = aBall.Z -5
+'        Exit Sub
+'    Loop
+    vpmtimer.addtimer 200, Me.DestroyBall
     Me.TimerEnabled = 0
 End Sub
 
@@ -754,10 +558,6 @@ SolCallback(20) = "KennyRight"
 '**********
 
 Sub table1_KeyDown(ByVal Keycode)
-    If KeyCode = MechanicalTilt Then
-        vpmTimer.PulseSw vpmNudge.TiltSwitch
-        Exit Sub
-    End if
 	If keycode = PlungerKey Then Plunger.Pullback:Playsound "plungerpull":End if
 	If vpmKeyDown(keycode) Then Exit Sub
 End Sub
@@ -779,7 +579,7 @@ Sub SolLFlipper(Enabled)
     If Enabled Then
         PlaySound SoundFX("FlipperUpLeft", DOFContactors):FlipperLeft.RotateToEnd
     Else
-        PlaySound SoundFX("FlipperDown", DOFContactors):FlipperLeft.RotateToStart:FlipperLeft.return = returnspeed * 0.5
+        PlaySound SoundFX("FlipperDown", DOFContactors):FlipperLeft.RotateToStart
     End If
 End Sub
 
@@ -787,36 +587,9 @@ Sub SolRFlipper(Enabled)
     If Enabled Then
         PlaySound SoundFX("FlipperUpRightBoth", DOFContactors):FlipperRight.RotateToEnd
     Else
-        PlaySound SoundFX("FlipperDown", DOFContactors):FlipperRight.RotateToStart:FlipperRight.return = returnspeed * 0.5
+        PlaySound SoundFX("FlipperDown", DOFContactors):FlipperRight.RotateToStart
     End If
 End Sub
-
-dim returnspeed, lfstep, rfstep
-returnspeed = FlipperLeft.return
-lfstep = 1
-rfstep = 1
-
-sub leftflipper_timer()
-	select case lfstep
-		Case 1: leftflipper.return = returnspeed * 0.6 :lfstep = lfstep + 1
-		Case 2: leftflipper.return = returnspeed * 0.7 :lfstep = lfstep + 1
-		Case 3: leftflipper.return = returnspeed * 0.8 :lfstep = lfstep + 1
-		Case 4: leftflipper.return = returnspeed * 0.9 :lfstep = lfstep + 1
-		Case 5: leftflipper.return = returnspeed * 1 :lfstep = lfstep + 1
-		Case 6: leftflipper.timerenabled = 0 : lfstep = 1
-	end select
-end sub
-
-sub rightflipper_timer()
-	select case rfstep
-		Case 1: rightflipper.return = returnspeed * 0.6 :rfstep = rfstep + 1
-		Case 2: rightflipper.return = returnspeed * 0.7 :rfstep = rfstep + 1
-		Case 3: rightflipper.return = returnspeed * 0.8 :rfstep = rfstep + 1
-		Case 4: rightflipper.return = returnspeed * 0.9 :rfstep = rfstep + 1
-		Case 5: rightflipper.return = returnspeed * 1 :rfstep = rfstep + 1
-		Case 6: rightflipper.timerenabled = 0 : rfstep = 1
-	end select
-end sub
 
 
 '*********
@@ -1045,12 +818,12 @@ End Sub
  
   Sub UpdateMultipleLamps()
 		If l30.state = 1 then Kenny.Visible = False:KennyL.Visible = True: else Kenny.Visible = True: KennyL.Visible = False
-		If l22.state = 1 then BulbCoverKennyRed.visible = False:BulbCoverKennyRedL.visible = True:BulbCoverKennyRedF.visible = True:BulbCoverKennyRedF1.Visible = True: else BulbCoverKennyRed.visible = True: BulbCoverKennyRedL.visible = False:BulbCoverKennyRedF.visible = False: BulbCoverKennyRedF1.Visible = False
-		If l23.state = 1 then BulbCoverKennyYellow.visible = False:BulbCoverKennyYellowL.visible = True:BulbCoverKennyYellowF.visible = True: BulbCoverKennyYellowF1.Visible = True: else BulbCoverKennyYellow.visible = True: BulbCoverKennyYellowL.visible = False: BulbCoverKennyYellowF.visible = False:BulbCoverKennyYellowF1.Visible = False
+'		If l22.state = 1 then BulbCoverKennyRed.visible = False:BulbCoverKennyRedL.visible = True:BulbCoverKennyRedF.visible = True: else BulbCoverKennyRed.visible = True: BulbCoverKennyRedL.visible = False:BulbCoverKennyRedF.visible = False
+'		If l23.state = 1 then BulbCoverKennyYellow.visible = False:BulbCoverKennyYellowL.visible = True:BulbCoverKennyYellowF.visible = True: else BulbCoverKennyYellow.visible = True: BulbCoverKennyYellowF.visible = False: BulbCoverKennyYellowF.visible = False
 		If l46.state = 1 then bulbgreenleft.visible = False:bulbgreenleftL.visible = True:bulbgreenleftF.Visible = True: Else bulbgreenleft.visible = True:bulbgreenleftL.visible = False:bulbgreenleftF.visible = False
 		If l48.state = 1 then bulbgreenright.visible = False:bulbgreenrightL.visible = True:bulbgreenrightf.visible = True: Else bulbgreenright.visible = True:bulbgreenrightL.visible = False:bulbgreenrightF.visible = False
 		If l30.state = 1 then l30a.state = 1:FlasherF6.Visible = True: Else FlasherF6.Visible = False:l30a.state = 0
-		If l38.state = 1 then BumperLeftLight:BumperFlasher.Visible = 1: Else BumperLeftLightOff:BumperFlasher.Visible = 0
+		If l38.state = 1 then BumperLeftLight: Else BumperLeftLightOff
 		If l39.state = 1 then BumperRightLight: Else BumperRightLightOff
 		If l40.state = 1 then BumperBottomLight: Else BumperBottomLightOff
 End Sub
@@ -1309,12 +1082,12 @@ Sub FlashSuperVuk(Enabled)
 	If Enabled Then
 	F8.State = 1
 	FlasherCapRed.Image = "dome3_redOn"
-	FlasherF8.Visible = True
+	FlasherF8.state = 1
 	if Ballcount > 0 And BallinToilet = 0 then GiBlinking
 	Else
 	F8.State = 0
 	FlasherCapRed.Image = "dome3_red"
-	FlasherF8.Visible = False
+	FlasherF8.state = 0
 	If Ballcount > 0 And BallinToilet = 0 then GiOn
 	End if
 End Sub
@@ -1326,14 +1099,14 @@ Sub FlashPops(Enabled)
 	FPc.State = 1
 	FPd.State = 1
 	FlasherCapYellow.Image = "dome3_yellowOn"
-	FlasherFPa.Visible = True
+	FlasherFPa.state = True
 	Else
 	FPa.State = 0
 	FPb.State = 0
 	FPc.State = 0
 	FPd.State = 0
 	FlasherCapYellow.Image = "dome3_yellow"
-	FlasherFPa.Visible = False
+	FlasherFPa.state = False
 	End if
 End Sub
 
@@ -1376,14 +1149,61 @@ End Sub
 
 
 	
+'*********************************************************************
+'                 Positional Sound Playback Functions
+'*********************************************************************
+
+' Play a sound, depending on the X,Y position of the table element (especially cool for surround speaker setups, otherwise stereo panning only)
+' parameters (defaults): loopcount (1), volume (1), randompitch (0), pitch (0), useexisting (0), restart (1))
+' Note that this will not work (currently) for walls/slingshots as these do not feature a simple, single X,Y position
+Sub PlayXYSound(soundname, tableobj, loopcount, volume, randompitch, pitch, useexisting, restart)
+	PlaySound soundname, loopcount, volume, AudioPan(tableobj), randompitch, pitch, useexisting, restart, AudioFade(tableobj)
+End Sub
+
+' Similar subroutines that are less complicated to use (e.g. simply use standard parameters for the PlaySound call)
+Sub PlaySoundAt(soundname, tableobj)
+    PlaySound soundname, 1, 1, AudioPan(tableobj), 0,0,0, 1, AudioFade(tableobj)
+End Sub
+
+Sub PlaySoundAtBall(soundname)
+    PlaySoundAt soundname, ActiveBall
+End Sub
 
 
-' *********************************************************************
-'                      Supporting Ball & Sound Functions
-' *********************************************************************
+'*********************************************************************
+'                     Supporting Ball & Sound Functions
+'*********************************************************************
+
+Function AudioFade(tableobj) ' Fades between front and back of the table (for surround systems or 2x2 speakers, etc), depending on the Y position on the table. "table1" is the name of the table
+	Dim tmp
+    tmp = tableobj.y * 2 / table1.height-1
+    If tmp > 0 Then
+		AudioFade = Csng(tmp ^10)
+    Else
+        AudioFade = Csng(-((- tmp) ^10) )
+    End If
+End Function
+
+Function AudioPan(tableobj) ' Calculates the pan for a tableobj based on the X position on the table. "table1" is the name of the table
+    Dim tmp
+    tmp = tableobj.x * 2 / table1.width-1
+    If tmp > 0 Then
+        AudioPan = Csng(tmp ^10)
+    Else
+        AudioPan = Csng(-((- tmp) ^10) )
+    End If
+End Function
 
 Function Vol(ball) ' Calculates the Volume of the sound based on the ball speed
-    Vol = Csng(BallVel(ball) ^2 / 1800)
+    Vol = Csng(BallVel(ball) ^2 / 2000)
+End Function
+
+Function Pitch(ball) ' Calculates the pitch of the sound based on the ball speed
+    Pitch = BallVel(ball) * 20
+End Function
+
+Function BallVel(ball) 'Calculates the ball speed
+    BallVel = INT(SQR((ball.VelX ^2) + (ball.VelY ^2) ) )
 End Function
 
 Function Vol2(ball1, ball2) ' Calculates the Volume of the sound based on the speed of two balls
@@ -1400,16 +1220,8 @@ Function Pan(ball) ' Calculates the pan for a ball based on the X position on th
     End If
 End Function
 
-Function Pitch(ball) ' Calculates the pitch of the sound based on the ball speed
-    Pitch = BallVel(ball) * 20
-End Function
-
-Function BallVel(ball) 'Calculates the ball speed
-    BallVel = INT(SQR((ball.VelX ^2) + (ball.VelY ^2) ) )
-End Function
-
 '*****************************************
-'    JP's VP10 Rolling Sounds
+'      JP's VP10 Rolling Sounds
 '*****************************************
 
 Const tnob = 9 ' total number of balls
@@ -1419,7 +1231,7 @@ InitRolling
 Sub InitRolling
     Dim i
     For i = 0 to tnob
-        rolling(i) = FALSE
+        rolling(i) = False
     Next
 End Sub
 
@@ -1427,26 +1239,31 @@ Sub RollingSoundUpdate()
     Dim BOT, b
     BOT = GetBalls
 
-    ' stop the sound of deleted balls
+	' stop the sound of deleted balls
     For b = UBound(BOT) + 1 to tnob
-        rolling(b) = FALSE
+        rolling(b) = False
         StopSound("fx_ballrolling" & b)
     Next
 
-    ' exit the sub if no balls on the table
+	' exit the sub if no balls on the table
     If UBound(BOT) = -1 Then Exit Sub
 
-    ' play the rolling sound for each ball
+	' play the rolling sound for each ball
+
     For b = 0 to UBound(BOT)
-        If BallVel(BOT(b) ) > 1 AND BOT(b).z < 30 Then
-            rolling(b) = TRUE
-            PlaySound("fx_ballrolling" & b), -1, Vol(BOT(b) ), Pan(BOT(b) ), 0, Pitch(BOT(b) ), 1, 0
-        Else
-            If rolling(b) = TRUE Then
-                StopSound("fx_ballrolling" & b)
-                rolling(b) = FALSE
-            End If
+      If BallVel(BOT(b) ) > 1 Then
+        rolling(b) = True
+        if BOT(b).z < 30 Then ' Ball on playfield
+          PlaySound("fx_ballrolling" & b), -1, Vol(BOT(b) ), AudioPan(BOT(b) ), 0, Pitch(BOT(b) ), 1, 0, AudioFade(BOT(b) )
+        Else ' Ball on raised ramp
+          PlaySound("fx_ballrolling" & b), -1, Vol(BOT(b) )*.5, AudioPan(BOT(b) ), 0, Pitch(BOT(b) )+50000, 1, 0, AudioFade(BOT(b) )
         End If
+      Else
+        If rolling(b) = True Then
+          StopSound("fx_ballrolling" & b)
+          rolling(b) = False
+        End If
+      End If
     Next
 End Sub
 
@@ -1458,11 +1275,42 @@ Sub OnBallBallCollision(ball1, ball2, velocity)
     PlaySound("fx_collide"), 0, Csng(velocity) ^2 / 2000, Pan(ball1), 0, Pitch(ball1), 0, 0
 End Sub
 
+
+Sub BallShadowUpdate()
+Dim BallShadow
+BallShadow = Array (BallShadow1,BallShadow2,BallShadow3,BallShadow4,BallShadow5,BallShadow6,BallShadow7,BallShadow8,BallShadow9)
+    Dim BOT, b
+    BOT = GetBalls
+    ' hide shadow of deleted balls
+    If UBound(BOT)<(tnob-1) Then
+        For b = (UBound(BOT) + 1) to (tnob-1)
+            BallShadow(b).visible = 0
+        Next
+    End If
+    ' exit the Sub if no balls on the table
+    If UBound(BOT) = -1 Then Exit Sub
+    ' render the shadow for each ball
+    For b = 0 to UBound(BOT)
+		BallShadow(b).X = BOT(b).X
+		ballShadow(b).Y = BOT(b).Y + 10                       
+        If BOT(b).Z > 20 and BOT(b).Z < 200 Then
+            BallShadow(b).visible = 1
+        Else
+            BallShadow(b).visible = 0
+        End If
+if BOT(b).z > 30 Then 
+ballShadow(b).height = BOT(b).Z - 20
+ballShadow(b).opacity = 80
+Else
+ballShadow(b).height = BOT(b).Z - 24
+ballShadow(b).opacity = 90
+End If
+    Next	
+End Sub
+
 '*******************
 ' WireRampDropSounds
 '*******************
-
-Dim SoundBall
 
 Sub CartmanWireStart_Hit
 	GiOn
@@ -1473,49 +1321,16 @@ Sub CartmanWireEnd_Hit
 End Sub
 
 Sub Trigger3_Hit()
-	StopSound "plasticrolling"
 	PlaySound "Balldrop"
 End Sub
 
 Sub Trigger4_Hit()
-	StopSound "plasticrolling"
 	PlaySound "Balldrop"
 End Sub
 
 Sub Trigger5_Hit()
 	Playsound "Balldrop"
 End Sub
-
-Sub Trigger6_Hit()
-	Stopsound "plasticrolling"
-End Sub
-
-Sub RightRampColl_Hit()
-	Set SoundBall = ActiveBall
-	PlaySound "plasticrolling", 0, Vol(ActiveBall), Pan(ActiveBall), 0, Pitch(ActiveBall), 1, 0
-End Sub
-
-Sub RightRampColl_UnHit()
-	StopSound "plasticrolling"
-End Sub
-
-Sub LeftRampColl_UnHit()
-	StopSound "plasticrolling"
-End Sub
-
-Sub LeftRampColl_Hit()
-	Set SoundBall = ActiveBall
-	PlaySound "plasticrolling", 0, Vol(ActiveBall), Pan(ActiveBall), 0, Pitch(ActiveBall), 1, 0
-End Sub
-
-Sub StopsoundRamp_Hit()
-	StopSound "plasticrolling"
-End Sub
-
-Sub StopsoundRamp1_Hit()
-	StopSound "plasticrolling"
-End Sub
-
 
 '****************************
 '     Realtime Updates
@@ -1529,9 +1344,10 @@ Sub RealTimeUpdates
     ToiletSeat.RotX = ToiletFlipper.CurrentAngle
     Cistern.RotX = CisternFlipper.CurrentAngle
     MrHankey.TransY = MrHankeyFlipper.CurrentAngle
-    ' rolling sound
+    BallShadowUpdate
     RollingSoundUpdate
-    'Gates
+    lfs.RotZ = FlipperLeft.CurrentAngle
+    rfs.RotZ = FlipperRight.CurrentAngle
 	GateUpdate
 End Sub
 

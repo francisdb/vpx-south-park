@@ -1,20 +1,20 @@
 {
   "Plunger": {
     "center": {
-      "x": 899.6875,
-      "y": 2137.25
+      "x": 899.68756,
+      "y": 2104.8442
     },
     "width": 25.0,
     "height": 20.0,
     "z_adjust": 0.0,
-    "stroke": 180.0,
-    "speed_pull": 1.0,
-    "speed_fire": 75.0,
+    "stroke": 150.0,
+    "speed_pull": 0.2,
+    "speed_fire": 55.0,
     "plunger_type": 3,
     "anim_frames": 1,
     "material": "Plastic with an image",
     "image": "plungerblacktip",
-    "mech_strength": 75.0,
+    "mech_strength": 80.0,
     "is_mech_plunger": true,
     "auto_plunger": false,
     "park_position": 0.01,

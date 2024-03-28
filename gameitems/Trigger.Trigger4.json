@@ -1,8 +1,8 @@
 {
   "Trigger": {
     "center": {
-      "x": 249.0,
-      "y": 1166.875
+      "x": 244.0,
+      "y": 1154.125
     },
     "radius": 26.0,
     "rotation": 0.0,
@@ -17,13 +17,13 @@
     "is_enabled": true,
     "hit_height": 50.0,
     "name": "Trigger4",
-    "shape": 0,
+    "shape": 2,
     "anim_speed": 1.0,
     "is_reflection_enabled": false,
     "drag_points": [
       {
-        "x": 263.25,
-        "y": 1115.6985,
+        "x": 214.0,
+        "y": 1124.125,
         "z": 0.0,
         "smooth": false,
         "is_slingshot": false,
@@ -31,12 +31,12 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
-        "x": 210.07358,
-        "y": 1169.3749,
+        "x": 214.0,
+        "y": 1184.125,
         "z": 0.0,
         "smooth": false,
         "is_slingshot": false,
@@ -44,12 +44,12 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
-        "x": 254.5,
-        "y": 1213.3015,
+        "x": 274.0,
+        "y": 1184.125,
         "z": 0.0,
         "smooth": false,
         "is_slingshot": false,
@@ -57,12 +57,12 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       },
       {
-        "x": 306.67642,
-        "y": 1161.6251,
+        "x": 274.0,
+        "y": 1124.125,
         "z": 0.0,
         "smooth": false,
         "is_slingshot": false,
@@ -70,8 +70,8 @@
         "tex_coord": 0.0,
         "is_locked": false,
         "editor_layer": 0,
-        "editor_layer_name": null,
-        "editor_layer_visibility": null
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
       }
     ]
   }

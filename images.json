@@ -1,7 +1,6 @@
 [
   {
     "name": "plungerBlackTip",
-    "internal_name": "plungerblacktip",
     "path": "C:\\Visual Pinball\\Tables\\plunger.png",
     "width": 32,
     "height": 256,
@@ -10,14 +9,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\Tables\\plunger.png",
-      "name": "plunger",
-      "inme": "plunger"
+      "name": "plunger"
     },
     "bits": false
   },
   {
     "name": "plungerWhiteTip",
-    "internal_name": "plungerwhitetip",
     "path": "E:\\Models\\plungerwhitetip.png",
     "width": 32,
     "height": 256,
@@ -26,14 +23,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Models\\plungerwhitetip.png",
-      "name": "plungerwhitetip",
-      "inme": "plungerwhitetip"
+      "name": "plungerwhitetip"
     },
     "bits": false
   },
   {
     "name": "Scratches",
-    "internal_name": "scratches",
     "path": "C:\\Models\\Scratches.png",
     "width": 256,
     "height": 256,
@@ -42,14 +37,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Models\\Scratches.png",
-      "name": "Scratches",
-      "inme": "scratches"
+      "name": "Scratches"
     },
     "bits": false
   },
   {
     "name": "aluminum",
-    "internal_name": "aluminum",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\aluminum.png",
     "width": 256,
     "height": 256,
@@ -58,14 +51,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\aluminum.png",
-      "name": "aluminum",
-      "inme": "aluminum"
+      "name": "aluminum"
     },
     "bits": false
   },
   {
     "name": "metal3",
-    "internal_name": "metal3",
     "path": "E:\\Pinball\\Tables\\!Fire\\Images\\metal3.jpg",
     "width": 400,
     "height": 75,
@@ -74,14 +65,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Pinball\\Tables\\!Fire\\Images\\metal3.jpg",
-      "name": "metal3",
-      "inme": "metal3"
+      "name": "metal3"
     },
     "bits": false
   },
   {
     "name": "purple peg",
-    "internal_name": "purple peg",
     "path": "E:\\Pinball\\Tables\\!Fire\\Images\\Red peg.png",
     "width": 256,
     "height": 256,
@@ -90,14 +79,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Pinball\\Tables\\!Fire\\Images\\Red peg.png",
-      "name": "Red peg",
-      "inme": "red peg"
+      "name": "Red peg"
     },
     "bits": false
   },
   {
     "name": "rubber-emwheel",
-    "internal_name": "rubber-emwheel",
     "path": "C:\\Program Files (x86)\\Pinball\\Tables\\vp10 materials\\rubber-emwheel.png",
     "width": 256,
     "height": 256,
@@ -106,14 +93,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Program Files (x86)\\Pinball\\Tables\\vp10 materials\\rubber-emwheel.png",
-      "name": "rubber-emwheel",
-      "inme": "rubber-emwheel"
+      "name": "rubber-emwheel"
     },
     "bits": false
   },
   {
     "name": "rubber-post-t1-black",
-    "internal_name": "rubber-post-t1-black",
     "path": "C:\\UPin\\rubber-post-t1-black.png",
     "width": 256,
     "height": 256,
@@ -122,14 +107,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\UPin\\rubber-post-t1-black.png",
-      "name": "rubber-post-t1-black",
-      "inme": "rubber-post-t1-black"
+      "name": "rubber-post-t1-black"
     },
     "bits": false
   },
   {
     "name": "Left_rail_brighter",
-    "internal_name": "left_rail_brighter",
     "path": "E:\\Pinball\\Tables\\Materials\\Left_rail_brighter.png",
     "width": 49,
     "height": 2048,
@@ -138,14 +121,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Pinball\\Tables\\Materials\\Left_rail_brighter.png",
-      "name": "Left_rail_brighter",
-      "inme": "left_rail_brighter"
+      "name": "Left_rail_brighter"
     },
     "bits": false
   },
   {
     "name": "Right_rail_brighter",
-    "internal_name": "right_rail_brighter",
     "path": "E:\\Pinball\\Tables\\Materials\\Right_rail_brighter.png",
     "width": 49,
     "height": 2048,
@@ -154,14 +135,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Pinball\\Tables\\Materials\\Right_rail_brighter.png",
-      "name": "Right_rail_brighter",
-      "inme": "right_rail_brighter"
+      "name": "Right_rail_brighter"
     },
     "bits": false
   },
   {
     "name": "LockdownBarreal-JR",
-    "internal_name": "lockdownbarreal-jr",
     "path": "E:\\Pinball\\Tables\\Materials\\LockdownBarreal-JR.png",
     "width": 1024,
     "height": 125,
@@ -170,14 +149,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Pinball\\Tables\\Materials\\LockdownBarreal-JR.png",
-      "name": "LockdownBarreal-JR",
-      "inme": "lockdownbarreal-jr"
+      "name": "LockdownBarreal-JR"
     },
     "bits": false
   },
   {
     "name": "ColorGradeLUT256x16_ConSat",
-    "internal_name": "colorgradelut256x16_consat",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\00.png",
     "width": 256,
     "height": 16,
@@ -186,14 +163,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\00.png",
-      "name": "00",
-      "inme": "00"
+      "name": "00"
     },
     "bits": false
   },
   {
     "name": "CustomBlackTip",
-    "internal_name": "customblacktip",
     "path": "D:\\temp\\CustomBlackTip.png",
     "width": 256,
     "height": 341,
@@ -202,14 +177,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "D:\\temp\\CustomBlackTip.png",
-      "name": "CustomBlackTip",
-      "inme": "customblacktip"
+      "name": "CustomBlackTip"
     },
     "bits": false
   },
   {
     "name": "ball_HDR",
-    "internal_name": "ball_hdr",
     "path": "C:\\ball_HDR.hdr",
     "width": 256,
     "height": 256,
@@ -218,14 +191,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\ball_HDR.hdr",
-      "name": "ball_HDR",
-      "inme": "ball_hdr"
+      "name": "ball_HDR"
     },
     "bits": false
   },
   {
     "name": "Black Wood l",
-    "internal_name": "black wood l",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\Black Wood l.jpg",
     "width": 500,
     "height": 500,
@@ -234,14 +205,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\Black Wood l.jpg",
-      "name": "Black Wood l",
-      "inme": "black wood l"
+      "name": "Black Wood l"
     },
     "bits": false
   },
   {
     "name": "Black Wood",
-    "internal_name": "black wood",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\Black Wood.jpg",
     "width": 500,
     "height": 500,
@@ -250,14 +219,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\Black Wood.jpg",
-      "name": "Black Wood",
-      "inme": "black wood"
+      "name": "Black Wood"
     },
     "bits": false
   },
   {
     "name": "studio021vp",
-    "internal_name": "studio021vp",
     "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\studio021vp.hdr",
     "width": 1000,
     "height": 500,
@@ -266,14 +233,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\studio021vp.hdr",
-      "name": "studio021vp",
-      "inme": "studio021vp"
+      "name": "studio021vp"
     },
     "bits": false
   },
   {
     "name": "KorpusOberflächenfarbe",
-    "internal_name": "korpusoberflächenfarbe",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\KorpusOberflächenfarbe.png",
     "width": 1024,
     "height": 1024,
@@ -282,14 +247,26 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\KorpusOberflächenfarbe.png",
-      "name": "KorpusOberflächenfarbe",
-      "inme": "korpusoberflächenfarbe"
+      "name": "KorpusOberflächenfarbe"
+    },
+    "bits": false
+  },
+  {
+    "name": "SouthParkPF",
+    "path": "C:\\Users\\Gary\\Desktop\\New folder\\SouthParkPF-sharpen.png",
+    "width": 1690,
+    "height": 3840,
+    "alpha_test_value": 1.0,
+    "is_opaque": null,
+    "is_signed": null,
+    "jpeg": {
+      "path": "C:\\Users\\Gary\\Desktop\\New folder\\SouthParkPF-sharpen.png",
+      "name": "SouthParkPF-sharpen"
     },
     "bits": false
   },
   {
     "name": "ApronOberflächenfarbe",
-    "internal_name": "apronoberflächenfarbe",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ApronOberflächenfarbe.png",
     "width": 1024,
     "height": 1024,
@@ -298,14 +275,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ApronOberflächenfarbe.png",
-      "name": "ApronOberflächenfarbe",
-      "inme": "apronoberflächenfarbe"
+      "name": "ApronOberflächenfarbe"
     },
     "bits": false
   },
   {
     "name": "PlungerCoverOberflächenfarbe",
-    "internal_name": "plungercoveroberflächenfarbe",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlungerCoverOberflächenfarbe.png",
     "width": 256,
     "height": 256,
@@ -314,14 +289,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlungerCoverOberflächenfarbe.png",
-      "name": "PlungerCoverOberflächenfarbe",
-      "inme": "plungercoveroberflächenfarbe"
+      "name": "PlungerCoverOberflächenfarbe"
     },
     "bits": false
   },
   {
     "name": "ApronDecalMitte",
-    "internal_name": "aprondecalmitte",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ApronDecalMitte.png",
     "width": 512,
     "height": 512,
@@ -330,14 +303,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ApronDecalMitte.png",
-      "name": "ApronDecalMitte",
-      "inme": "aprondecalmitte"
+      "name": "ApronDecalMitte"
     },
     "bits": false
   },
   {
     "name": "ApronDecalRechts",
-    "internal_name": "aprondecalrechts",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ApronDecalRechts.png",
     "width": 512,
     "height": 512,
@@ -346,14 +317,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ApronDecalRechts.png",
-      "name": "ApronDecalRechts",
-      "inme": "aprondecalrechts"
+      "name": "ApronDecalRechts"
     },
     "bits": false
   },
   {
     "name": "ApronDecalLinks",
-    "internal_name": "aprondecallinks",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ApronDecalLinks.png",
     "width": 512,
     "height": 512,
@@ -362,14 +331,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ApronDecalLinks.png",
-      "name": "ApronDecalLinks",
-      "inme": "aprondecallinks"
+      "name": "ApronDecalLinks"
     },
     "bits": false
   },
   {
     "name": "ApronDecalAmusement",
-    "internal_name": "aprondecalamusement",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ApronDecalAmusement.png",
     "width": 512,
     "height": 512,
@@ -378,14 +345,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ApronDecalAmusement.png",
-      "name": "ApronDecalAmusement",
-      "inme": "aprondecalamusement"
+      "name": "ApronDecalAmusement"
     },
     "bits": false
   },
   {
     "name": "ApronDecalRules",
-    "internal_name": "aprondecalrules",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ApronDecalRules.png",
     "width": 512,
     "height": 512,
@@ -394,14 +359,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ApronDecalRules.png",
-      "name": "ApronDecalRules",
-      "inme": "aprondecalrules"
+      "name": "ApronDecalRules"
     },
     "bits": false
   },
   {
     "name": "PlasticMitteRechts",
-    "internal_name": "plasticmitterechts",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticMitteRechts.png",
     "width": 512,
     "height": 512,
@@ -410,14 +373,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticMitteRechts.png",
-      "name": "PlasticMitteRechts",
-      "inme": "plasticmitterechts"
+      "name": "PlasticMitteRechts"
     },
     "bits": false
   },
   {
     "name": "PlasticUntenRechts",
-    "internal_name": "plasticuntenrechts",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticUntenRechts.png",
     "width": 512,
     "height": 512,
@@ -426,14 +387,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticUntenRechts.png",
-      "name": "PlasticUntenRechts",
-      "inme": "plasticuntenrechts"
+      "name": "PlasticUntenRechts"
     },
     "bits": false
   },
   {
     "name": "PlasticUntenLinks",
-    "internal_name": "plasticuntenlinks",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticUntenLinks.png",
     "width": 512,
     "height": 512,
@@ -442,14 +401,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticUntenLinks.png",
-      "name": "PlasticUntenLinks",
-      "inme": "plasticuntenlinks"
+      "name": "PlasticUntenLinks"
     },
     "bits": false
   },
   {
     "name": "PlasticMitteLinks",
-    "internal_name": "plasticmittelinks",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticMitteLinks.png",
     "width": 512,
     "height": 512,
@@ -458,14 +415,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticMitteLinks.png",
-      "name": "PlasticMitteLinks",
-      "inme": "plasticmittelinks"
+      "name": "PlasticMitteLinks"
     },
     "bits": false
   },
   {
     "name": "PlasticObenLinks",
-    "internal_name": "plasticobenlinks",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticObenLinks.png",
     "width": 512,
     "height": 512,
@@ -474,14 +429,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticObenLinks.png",
-      "name": "PlasticObenLinks",
-      "inme": "plasticobenlinks"
+      "name": "PlasticObenLinks"
     },
     "bits": false
   },
   {
     "name": "PlasticObenRechts",
-    "internal_name": "plasticobenrechts",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticObenRechts.png",
     "width": 512,
     "height": 512,
@@ -490,14 +443,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticObenRechts.png",
-      "name": "PlasticObenRechts",
-      "inme": "plasticobenrechts"
+      "name": "PlasticObenRechts"
     },
     "bits": false
   },
   {
     "name": "PlasticKloRechts",
-    "internal_name": "plasticklorechts",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticKloRechts.png",
     "width": 512,
     "height": 512,
@@ -506,14 +457,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticKloRechts.png",
-      "name": "PlasticKloRechts",
-      "inme": "plasticklorechts"
+      "name": "PlasticKloRechts"
     },
     "bits": false
   },
   {
     "name": "PlasticKloLinks",
-    "internal_name": "plasticklolinks",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticKloLinks.png",
     "width": 512,
     "height": 512,
@@ -522,14 +471,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticKloLinks.png",
-      "name": "PlasticKloLinks",
-      "inme": "plasticklolinks"
+      "name": "PlasticKloLinks"
     },
     "bits": false
   },
   {
     "name": "PlasticKennyKlein",
-    "internal_name": "plastickennyklein",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticKennyKlein.png",
     "width": 256,
     "height": 256,
@@ -538,14 +485,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticKennyKlein.png",
-      "name": "PlasticKennyKlein",
-      "inme": "plastickennyklein"
+      "name": "PlasticKennyKlein"
     },
     "bits": false
   },
   {
     "name": "PlasticSlingShotTimmy",
-    "internal_name": "plasticslingshottimmy",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticSlingShotRechts.png",
     "width": 512,
     "height": 512,
@@ -554,14 +499,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticSlingShotRechts.png",
-      "name": "PlasticSlingShotRechts",
-      "inme": "plasticslingshotrechts"
+      "name": "PlasticSlingShotRechts"
     },
     "bits": false
   },
   {
     "name": "PlasticSlingShotButters",
-    "internal_name": "plasticslingshotbutters",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticSlingShotLinks.png",
     "width": 512,
     "height": 512,
@@ -570,14 +513,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticSlingShotLinks.png",
-      "name": "PlasticSlingShotLinks",
-      "inme": "plasticslingshotlinks"
+      "name": "PlasticSlingShotLinks"
     },
     "bits": false
   },
   {
     "name": "PlasticInlaneRechts",
-    "internal_name": "plasticinlanerechts",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticInlaneRechts.png",
     "width": 512,
     "height": 512,
@@ -586,14 +527,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticInlaneRechts.png",
-      "name": "PlasticInlaneRechts",
-      "inme": "plasticinlanerechts"
+      "name": "PlasticInlaneRechts"
     },
     "bits": false
   },
   {
     "name": "PlasticInlaneLinks",
-    "internal_name": "plasticinlanelinks",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticInlaneLinks.png",
     "width": 512,
     "height": 512,
@@ -602,14 +541,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticInlaneLinks.png",
-      "name": "PlasticInlaneLinks",
-      "inme": "plasticinlanelinks"
+      "name": "PlasticInlaneLinks"
     },
     "bits": false
   },
   {
     "name": "PlasticKennyRampe",
-    "internal_name": "plastickennyrampe",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticKennyRampe.png",
     "width": 256,
     "height": 256,
@@ -618,14 +555,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlasticKennyRampe.png",
-      "name": "PlasticKennyRampe",
-      "inme": "plastickennyrampe"
+      "name": "PlasticKennyRampe"
     },
     "bits": false
   },
   {
     "name": "DecalTopLeftRamp",
-    "internal_name": "decaltopleftramp",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DecalTopLeftRamp.png",
     "width": 512,
     "height": 512,
@@ -634,14 +569,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DecalTopLeftRamp.png",
-      "name": "DecalTopLeftRamp",
-      "inme": "decaltopleftramp"
+      "name": "DecalTopLeftRamp"
     },
     "bits": false
   },
   {
     "name": "DecalTodaysHotLunch",
-    "internal_name": "decaltodayshotlunch",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DecalTodaysHotLunch.png",
     "width": 256,
     "height": 256,
@@ -650,14 +583,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DecalTodaysHotLunch.png",
-      "name": "DecalTodaysHotLunch",
-      "inme": "decaltodayshotlunch"
+      "name": "DecalTodaysHotLunch"
     },
     "bits": false
   },
   {
     "name": "DecalRightRamp",
-    "internal_name": "decalrightramp",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DecalRightRamp.png",
     "width": 256,
     "height": 256,
@@ -666,14 +597,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DecalRightRamp.png",
-      "name": "DecalRightRamp",
-      "inme": "decalrightramp"
+      "name": "DecalRightRamp"
     },
     "bits": false
   },
   {
     "name": "PlungerLaneMetal",
-    "internal_name": "plungerlanemetal",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlungerLaneMetal.png",
     "width": 256,
     "height": 256,
@@ -682,14 +611,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\PlungerLaneMetal.png",
-      "name": "PlungerLaneMetal",
-      "inme": "plungerlanemetal"
+      "name": "PlungerLaneMetal"
     },
     "bits": false
   },
   {
     "name": "wasserwaage",
-    "internal_name": "wasserwaage",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\wasserwaage.png",
     "width": 256,
     "height": 256,
@@ -698,14 +625,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\wasserwaage.png",
-      "name": "wasserwaage",
-      "inme": "wasserwaage"
+      "name": "wasserwaage"
     },
     "bits": false
   },
   {
     "name": "bumper texture red",
-    "internal_name": "bumper texture red",
     "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\bumper texture red.png",
     "width": 441,
     "height": 598,
@@ -714,14 +639,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\bumper texture red.png",
-      "name": "bumper texture red",
-      "inme": "bumper texture red"
+      "name": "bumper texture red"
     },
     "bits": false
   },
   {
     "name": "DecalsBumper",
-    "internal_name": "decalsbumper",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DecalsBumper.png",
     "width": 128,
     "height": 128,
@@ -730,14 +653,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DecalsBumper.png",
-      "name": "DecalsBumper",
-      "inme": "decalsbumper"
+      "name": "DecalsBumper"
     },
     "bits": false
   },
   {
     "name": "FlipperLeft",
-    "internal_name": "flipperleft",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\FlipperLeft.png",
     "width": 512,
     "height": 512,
@@ -746,14 +667,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\FlipperLeft.png",
-      "name": "FlipperLeft",
-      "inme": "flipperleft"
+      "name": "FlipperLeft"
     },
     "bits": false
   },
   {
     "name": "FlipperRight",
-    "internal_name": "flipperright",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\FlipperRight.png",
     "width": 512,
     "height": 512,
@@ -762,14 +681,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\FlipperRight.png",
-      "name": "FlipperRight",
-      "inme": "flipperright"
+      "name": "FlipperRight"
     },
     "bits": false
   },
   {
     "name": "KennyHoleNeu",
-    "internal_name": "kennyholeneu",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\KennyHoleNeuOberflächenfarbe.png",
     "width": 512,
     "height": 512,
@@ -778,14 +695,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\KennyHoleNeuOberflächenfarbe.png",
-      "name": "KennyHoleNeuOberflächenfarbe",
-      "inme": "kennyholeneuoberflächenfarbe"
+      "name": "KennyHoleNeuOberflächenfarbe"
     },
     "bits": false
   },
   {
     "name": "CartmanLoch",
-    "internal_name": "cartmanloch",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\CartmanLochOberflächenfarbe.png",
     "width": 512,
     "height": 512,
@@ -794,14 +709,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\CartmanLochOberflächenfarbe.png",
-      "name": "CartmanLochOberflächenfarbe",
-      "inme": "cartmanlochoberflächenfarbe"
+      "name": "CartmanLochOberflächenfarbe"
     },
     "bits": false
   },
   {
     "name": "DTNed",
-    "internal_name": "dtned",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Ned.png",
     "width": 128,
     "height": 128,
@@ -810,14 +723,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Ned.png",
-      "name": "Ned",
-      "inme": "ned"
+      "name": "Ned"
     },
     "bits": false
   },
   {
     "name": "DTMephisto",
-    "internal_name": "dtmephisto",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Mephisto.png",
     "width": 128,
     "height": 128,
@@ -826,14 +737,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Mephisto.png",
-      "name": "Mephisto",
-      "inme": "mephisto"
+      "name": "Mephisto"
     },
     "bits": false
   },
   {
     "name": "DTGrandpa",
-    "internal_name": "dtgrandpa",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\grandpa.png",
     "width": 128,
     "height": 128,
@@ -842,14 +751,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\grandpa.png",
-      "name": "grandpa",
-      "inme": "grandpa"
+      "name": "grandpa"
     },
     "bits": false
   },
   {
     "name": "DTMsCartman",
-    "internal_name": "dtmscartman",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\MsCartman.png",
     "width": 128,
     "height": 128,
@@ -858,14 +765,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\MsCartman.png",
-      "name": "MsCartman",
-      "inme": "mscartman"
+      "name": "MsCartman"
     },
     "bits": false
   },
   {
     "name": "DTMayor",
-    "internal_name": "dtmayor",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Mayor.png",
     "width": 128,
     "height": 128,
@@ -874,14 +779,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Mayor.png",
-      "name": "Mayor",
-      "inme": "mayor"
+      "name": "Mayor"
     },
     "bits": false
   },
   {
     "name": "DTBarbrady",
-    "internal_name": "dtbarbrady",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Barbrady.png",
     "width": 128,
     "height": 128,
@@ -890,14 +793,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Barbrady.png",
-      "name": "Barbrady",
-      "inme": "barbrady"
+      "name": "Barbrady"
     },
     "bits": false
   },
   {
     "name": "DTHugo",
-    "internal_name": "dthugo",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Hugo.png",
     "width": 128,
     "height": 128,
@@ -906,14 +807,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Hugo.png",
-      "name": "Hugo",
-      "inme": "hugo"
+      "name": "Hugo"
     },
     "bits": false
   },
   {
     "name": "DTJ",
-    "internal_name": "dtj",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DTJ.png",
     "width": 256,
     "height": 256,
@@ -922,14 +821,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DTJ.png",
-      "name": "DTJ",
-      "inme": "dtj"
+      "name": "DTJ"
     },
     "bits": false
   },
   {
     "name": "DTH",
-    "internal_name": "dth",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DTH.png",
     "width": 256,
     "height": 256,
@@ -938,14 +835,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DTH.png",
-      "name": "DTH",
-      "inme": "dth"
+      "name": "DTH"
     },
     "bits": false
   },
   {
     "name": "DTSirJohn",
-    "internal_name": "dtsirjohn",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DTSirJohnOberflächenfarbe.png",
     "width": 256,
     "height": 256,
@@ -954,14 +849,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\DTSirJohnOberflächenfarbe.png",
-      "name": "DTSirJohnOberflächenfarbe",
-      "inme": "dtsirjohnoberflächenfarbe"
+      "name": "DTSirJohnOberflächenfarbe"
     },
     "bits": false
   },
   {
     "name": "CartmanHoleWall",
-    "internal_name": "cartmanholewall",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\CartmanHoleWall.png",
     "width": 256,
     "height": 256,
@@ -970,14 +863,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\CartmanHoleWall.png",
-      "name": "CartmanHoleWall",
-      "inme": "cartmanholewall"
+      "name": "CartmanHoleWall"
     },
     "bits": false
   },
   {
     "name": "Gates",
-    "internal_name": "gates",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Gates.png",
     "width": 128,
     "height": 128,
@@ -986,14 +877,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Gates.png",
-      "name": "Gates",
-      "inme": "gates"
+      "name": "Gates"
     },
     "bits": false
   },
   {
     "name": "Rampflap",
-    "internal_name": "rampflap",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Rampflap.png",
     "width": 256,
     "height": 256,
@@ -1002,14 +891,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Rampflap.png",
-      "name": "Rampflap",
-      "inme": "rampflap"
+      "name": "Rampflap"
     },
     "bits": false
   },
   {
     "name": "DTMrMackey",
-    "internal_name": "dtmrmackey",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Mackey.png",
     "width": 128,
     "height": 128,
@@ -1018,14 +905,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Mackey.png",
-      "name": "Mackey",
-      "inme": "mackey"
+      "name": "Mackey"
     },
     "bits": false
   },
   {
     "name": "DTMrGarrison",
-    "internal_name": "dtmrgarrison",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Garrison.png",
     "width": 128,
     "height": 128,
@@ -1034,14 +919,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Garrison.png",
-      "name": "Garrison",
-      "inme": "garrison"
+      "name": "Garrison"
     },
     "bits": false
   },
   {
     "name": "DTWendy",
-    "internal_name": "dtwendy",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Wendy.png",
     "width": 128,
     "height": 128,
@@ -1050,14 +933,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Wendy.png",
-      "name": "Wendy",
-      "inme": "wendy"
+      "name": "Wendy"
     },
     "bits": false
   },
   {
     "name": "dome3_red",
-    "internal_name": "dome3_red",
     "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\dome3_red.png",
     "width": 1024,
     "height": 1024,
@@ -1066,14 +947,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\dome3_red.png",
-      "name": "dome3_red",
-      "inme": "dome3_red"
+      "name": "dome3_red"
     },
     "bits": false
   },
   {
     "name": "dome3_yellow",
-    "internal_name": "dome3_yellow",
     "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\dome3_yellow.png",
     "width": 1024,
     "height": 1024,
@@ -1082,14 +961,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\dome3_yellow.png",
-      "name": "dome3_yellow",
-      "inme": "dome3_yellow"
+      "name": "dome3_yellow"
     },
     "bits": false
   },
   {
     "name": "FlasherPlastic",
-    "internal_name": "flasherplastic",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\FlasherPlastic.png",
     "width": 128,
     "height": 128,
@@ -1098,14 +975,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\FlasherPlastic.png",
-      "name": "FlasherPlastic",
-      "inme": "flasherplastic"
+      "name": "FlasherPlastic"
     },
     "bits": false
   },
   {
     "name": "Eric",
-    "internal_name": "eric",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\eric.png",
     "width": 512,
     "height": 512,
@@ -1114,14 +989,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\eric.png",
-      "name": "eric",
-      "inme": "eric"
+      "name": "eric"
     },
     "bits": false
   },
   {
     "name": "Kyle",
-    "internal_name": "kyle",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Kyle.png",
     "width": 256,
     "height": 256,
@@ -1130,14 +1003,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Kyle.png",
-      "name": "Kyle",
-      "inme": "kyle"
+      "name": "Kyle"
     },
     "bits": false
   },
   {
     "name": "token",
-    "internal_name": "token",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\token.png",
     "width": 256,
     "height": 256,
@@ -1146,14 +1017,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\token.png",
-      "name": "token",
-      "inme": "token"
+      "name": "token"
     },
     "bits": false
   },
   {
     "name": "Butters",
-    "internal_name": "butters",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\butters.png",
     "width": 512,
     "height": 512,
@@ -1162,14 +1031,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\butters.png",
-      "name": "butters",
-      "inme": "butters"
+      "name": "butters"
     },
     "bits": false
   },
   {
     "name": "Chef",
-    "internal_name": "chef",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Chef.png",
     "width": 256,
     "height": 256,
@@ -1178,14 +1045,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Chef.png",
-      "name": "Chef",
-      "inme": "chef"
+      "name": "Chef"
     },
     "bits": false
   },
   {
     "name": "Stan",
-    "internal_name": "stan",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Stan.png",
     "width": 256,
     "height": 256,
@@ -1194,14 +1059,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Stan.png",
-      "name": "Stan",
-      "inme": "stan"
+      "name": "Stan"
     },
     "bits": false
   },
   {
     "name": "Ike",
-    "internal_name": "ike",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Ike.png",
     "width": 256,
     "height": 256,
@@ -1210,14 +1073,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Ike.png",
-      "name": "Ike",
-      "inme": "ike"
+      "name": "Ike"
     },
     "bits": false
   },
   {
     "name": "MrHankey",
-    "internal_name": "mrhankey",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\MrHankey.png",
     "width": 256,
     "height": 256,
@@ -1226,14 +1087,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\MrHankey.png",
-      "name": "MrHankey",
-      "inme": "mrhankey"
+      "name": "MrHankey"
     },
     "bits": false
   },
   {
     "name": "Kenny",
-    "internal_name": "kenny",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Kenny.png",
     "width": 512,
     "height": 512,
@@ -1242,14 +1101,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Kenny.png",
-      "name": "Kenny",
-      "inme": "kenny"
+      "name": "Kenny"
     },
     "bits": false
   },
   {
     "name": "Timmy",
-    "internal_name": "timmy",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Timmy.png",
     "width": 256,
     "height": 256,
@@ -1258,14 +1115,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Timmy.png",
-      "name": "Timmy",
-      "inme": "timmy"
+      "name": "Timmy"
     },
     "bits": false
   },
   {
     "name": "Toilette",
-    "internal_name": "toilette",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ToiletteOberflächenfarbe.png",
     "width": 512,
     "height": 512,
@@ -1274,14 +1129,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ToiletteOberflächenfarbe.png",
-      "name": "ToiletteOberflächenfarbe",
-      "inme": "toiletteoberflächenfarbe"
+      "name": "ToiletteOberflächenfarbe"
     },
     "bits": false
   },
   {
     "name": "Spülkastendeckel",
-    "internal_name": "spülkastendeckel",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Spülkastendeckel.png",
     "width": 256,
     "height": 256,
@@ -1290,14 +1143,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\Spülkastendeckel.png",
-      "name": "Spülkastendeckel",
-      "inme": "spülkastendeckel"
+      "name": "Spülkastendeckel"
     },
     "bits": false
   },
   {
     "name": "ToiletteDeckel",
-    "internal_name": "toilettedeckel",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ToiletteDeckel.png",
     "width": 256,
     "height": 256,
@@ -1306,14 +1157,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\ToiletteDeckel.png",
-      "name": "ToiletteDeckel",
-      "inme": "toilettedeckel"
+      "name": "ToiletteDeckel"
     },
     "bits": false
   },
   {
     "name": "bulbcover1_green",
-    "internal_name": "bulbcover1_green",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\bulbcover1_green.png",
     "width": 128,
     "height": 128,
@@ -1322,14 +1171,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\bulbcover1_green.png",
-      "name": "bulbcover1_green",
-      "inme": "bulbcover1_green"
+      "name": "bulbcover1_green"
     },
     "bits": false
   },
   {
     "name": "bulbcover1_red",
-    "internal_name": "bulbcover1_red",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\bulbcover1_red.png",
     "width": 128,
     "height": 128,
@@ -1338,14 +1185,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\bulbcover1_red.png",
-      "name": "bulbcover1_red",
-      "inme": "bulbcover1_red"
+      "name": "bulbcover1_red"
     },
     "bits": false
   },
   {
     "name": "bulbcover1_yellow",
-    "internal_name": "bulbcover1_yellow",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\bulbcover1_yellow.png",
     "width": 128,
     "height": 128,
@@ -1354,46 +1199,40 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\bulbcover1_yellow.png",
-      "name": "bulbcover1_yellow",
-      "inme": "bulbcover1_yellow"
+      "name": "bulbcover1_yellow"
     },
     "bits": false
   },
   {
     "name": "LeftRamp",
-    "internal_name": "leftramp",
     "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\LeftRamp.png",
-    "width": 2048,
-    "height": 2048,
+    "width": 4096,
+    "height": 4096,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\LeftRamp.png",
-      "name": "LeftRamp",
-      "inme": "leftramp"
+      "name": "LeftRamp"
     },
     "bits": false
   },
   {
     "name": "RightRamp",
-    "internal_name": "rightramp",
     "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\RightRamp.png",
-    "width": 2048,
-    "height": 2048,
+    "width": 4096,
+    "height": 4096,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\RightRamp.png",
-      "name": "RightRamp",
-      "inme": "rightramp"
+      "name": "RightRamp"
     },
     "bits": false
   },
   {
     "name": "bulbcover1_redOn",
-    "internal_name": "bulbcover1_redon",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\bulbcover1_redOn.png",
     "width": 128,
     "height": 128,
@@ -1402,14 +1241,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\bulbcover1_redOn.png",
-      "name": "bulbcover1_redOn",
-      "inme": "bulbcover1_redon"
+      "name": "bulbcover1_redOn"
     },
     "bits": false
   },
   {
     "name": "bulbcover1_yellowOn",
-    "internal_name": "bulbcover1_yellowon",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\bulbcover1_yellowOn.png",
     "width": 128,
     "height": 128,
@@ -1418,14 +1255,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\bulbcover1_yellowOn.png",
-      "name": "bulbcover1_yellowOn",
-      "inme": "bulbcover1_yellowon"
+      "name": "bulbcover1_yellowOn"
     },
     "bits": false
   },
   {
     "name": "bulbcover1_greenOn",
-    "internal_name": "bulbcover1_greenon",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\bulbcover1_greenOn.png",
     "width": 128,
     "height": 128,
@@ -1434,14 +1269,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\bulbcover1_greenOn.png",
-      "name": "bulbcover1_greenOn",
-      "inme": "bulbcover1_greenon"
+      "name": "bulbcover1_greenOn"
     },
     "bits": false
   },
   {
     "name": "dome3_redOn",
-    "internal_name": "dome3_redon",
     "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\dome3_redOn.png",
     "width": 1024,
     "height": 1024,
@@ -1450,14 +1283,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\dome3_redOn.png",
-      "name": "dome3_redOn",
-      "inme": "dome3_redon"
+      "name": "dome3_redOn"
     },
     "bits": false
   },
   {
     "name": "dome3_yellowOn",
-    "internal_name": "dome3_yellowon",
     "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\dome3_yellowOn.png",
     "width": 1024,
     "height": 1024,
@@ -1466,14 +1297,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Program Files (x86)\\Visual Pinball\\Tables\\South Park\\Import\\Teturen\\dome3_yellowOn.png",
-      "name": "dome3_yellowOn",
-      "inme": "dome3_yellowon"
+      "name": "dome3_yellowOn"
     },
     "bits": false
   },
   {
     "name": "fl_center",
-    "internal_name": "fl_center",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\fl_center.png",
     "width": 512,
     "height": 512,
@@ -1482,14 +1311,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\fl_center.png",
-      "name": "fl_center",
-      "inme": "fl_center"
+      "name": "fl_center"
     },
     "bits": false
   },
   {
     "name": "flw",
-    "internal_name": "flw",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\flw.png",
     "width": 512,
     "height": 512,
@@ -1498,14 +1325,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\flw.png",
-      "name": "flw",
-      "inme": "flw"
+      "name": "flw"
     },
     "bits": false
   },
   {
     "name": "-70",
-    "internal_name": "-70",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\-70.png",
     "width": 256,
     "height": 16,
@@ -1514,14 +1339,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\-70.png",
-      "name": "-70",
-      "inme": "-70"
+      "name": "-70"
     },
     "bits": false
   },
   {
     "name": "-30",
-    "internal_name": "-30",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\-30.png",
     "width": 256,
     "height": 16,
@@ -1530,14 +1353,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\-30.png",
-      "name": "-30",
-      "inme": "-30"
+      "name": "-30"
     },
     "bits": false
   },
   {
     "name": "backdrop desktop",
-    "internal_name": "backdrop desktop",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\backdrop desktop.png",
     "width": 1920,
     "height": 1080,
@@ -1546,14 +1367,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\backdrop desktop.png",
-      "name": "backdrop desktop",
-      "inme": "backdrop desktop"
+      "name": "backdrop desktop"
     },
     "bits": false
   },
   {
     "name": "PlasticSlingShotKenny",
-    "internal_name": "plasticslingshotkenny",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\SlingShotPlasticKenny.png",
     "width": 512,
     "height": 512,
@@ -1562,14 +1381,12 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\SlingShotPlasticKenny.png",
-      "name": "SlingShotPlasticKenny",
-      "inme": "slingshotplastickenny"
+      "name": "SlingShotPlasticKenny"
     },
     "bits": false
   },
   {
     "name": "PlasticSlingShotStan",
-    "internal_name": "plasticslingshotstan",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\SlingShotStan.png",
     "width": 512,
     "height": 512,
@@ -1578,24 +1395,63 @@
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\Adam Pritz\\Desktop\\southparkpicscompressed\\SlingShotStan.png",
-      "name": "SlingShotStan",
-      "inme": "slingshotstan"
+      "name": "SlingShotStan"
     },
     "bits": false
   },
   {
-    "name": "SouthParkPFShadows",
-    "internal_name": "southparkpfshadows",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\SouthParkPFShadows.png",
-    "width": 845,
-    "height": 1920,
+    "name": "shinyenvironment",
+    "path": "C:\\Users\\Gary\\Desktop\\pinball\\shinyenvironment.hdr",
+    "width": 1024,
+    "height": 512,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
-      "path": "C:\\Users\\Adam Pritz\\Desktop\\SouthParkPFShadows.png",
-      "name": "SouthParkPFShadows",
-      "inme": "southparkpfshadows"
+      "path": "C:\\Users\\Gary\\Desktop\\pinball\\shinyenvironment.hdr",
+      "name": "shinyenvironment"
+    },
+    "bits": false
+  },
+  {
+    "name": "shiney_ball_HDR",
+    "path": "C:\\Users\\Gary\\Desktop\\pinball\\shiney_ball_HDR.hdr",
+    "width": 256,
+    "height": 256,
+    "alpha_test_value": 1.0,
+    "is_opaque": null,
+    "is_signed": null,
+    "jpeg": {
+      "path": "C:\\Users\\Gary\\Desktop\\pinball\\shiney_ball_HDR.hdr",
+      "name": "shiney_ball_HDR"
+    },
+    "bits": false
+  },
+  {
+    "name": "ballshadow",
+    "path": "C:\\Users\\Gary\\Desktop\\pinball\\ballshadow.png",
+    "width": 249,
+    "height": 252,
+    "alpha_test_value": 1.0,
+    "is_opaque": null,
+    "is_signed": null,
+    "jpeg": {
+      "path": "C:\\Users\\Gary\\Desktop\\pinball\\ballshadow.png",
+      "name": "ballshadow"
+    },
+    "bits": false
+  },
+  {
+    "name": "flippers_shadow",
+    "path": "C:\\Users\\Gary\\Desktop\\pinball\\flippers_shadow.png",
+    "width": 256,
+    "height": 768,
+    "alpha_test_value": 1.0,
+    "is_opaque": null,
+    "is_signed": null,
+    "jpeg": {
+      "path": "C:\\Users\\Gary\\Desktop\\pinball\\flippers_shadow.png",
+      "name": "flippers_shadow"
     },
     "bits": false
   }

@@ -28,7 +28,7 @@
   },
   {
     "name": "fx_ballrolling0",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling0",
     "fade": 0,
     "volume": 0,
@@ -37,7 +37,7 @@
   },
   {
     "name": "fx_ballrolling1",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling1",
     "fade": 0,
     "volume": 0,
@@ -46,7 +46,7 @@
   },
   {
     "name": "fx_ballrolling2",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling2",
     "fade": 0,
     "volume": 0,
@@ -55,7 +55,7 @@
   },
   {
     "name": "fx_ballrolling3",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling3",
     "fade": 0,
     "volume": 0,
@@ -64,7 +64,7 @@
   },
   {
     "name": "fx_ballrolling4",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling4",
     "fade": 0,
     "volume": 0,
@@ -73,7 +73,7 @@
   },
   {
     "name": "fx_ballrolling5",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling5",
     "fade": 0,
     "volume": 0,
@@ -82,7 +82,7 @@
   },
   {
     "name": "fx_ballrolling6",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling6",
     "fade": 0,
     "volume": 0,
@@ -91,7 +91,7 @@
   },
   {
     "name": "fx_ballrolling7",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling7",
     "fade": 0,
     "volume": 0,
@@ -100,7 +100,7 @@
   },
   {
     "name": "fx_ballrolling8",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling8",
     "fade": 0,
     "volume": 0,
@@ -109,7 +109,7 @@
   },
   {
     "name": "fx_ballrolling9",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling9",
     "fade": 0,
     "volume": 0,
@@ -118,7 +118,7 @@
   },
   {
     "name": "fx_ballrolling10",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling10",
     "fade": 0,
     "volume": 0,
@@ -127,7 +127,7 @@
   },
   {
     "name": "fx_ballrolling11",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling11",
     "fade": 0,
     "volume": 0,
@@ -136,7 +136,7 @@
   },
   {
     "name": "fx_ballrolling12",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling12",
     "fade": 0,
     "volume": 0,
@@ -145,7 +145,7 @@
   },
   {
     "name": "fx_ballrolling13",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\rolling3_1.wav",
     "internal_name": "fx_ballrolling13",
     "fade": 0,
     "volume": 0,
@@ -543,15 +543,6 @@
     "name": "KennyMove1",
     "path": "C:\\Users\\Adam Pritz\\Desktop\\KennyMove1.wav",
     "internal_name": "kennymove1",
-    "fade": 0,
-    "volume": 0,
-    "balance": 0,
-    "output_target": 0
-  },
-  {
-    "name": "plasticrolling",
-    "path": "C:\\Users\\Adam Pritz\\Desktop\\plasticrolling.wav",
-    "internal_name": "plasticrolling",
     "fade": 0,
     "volume": 0,
     "balance": 0,

@@ -1,0 +1,81 @@
+{
+  "Flasher": {
+    "height": 1.0,
+    "pos_x": -1204.099,
+    "pos_y": 3990.9973,
+    "rot_x": 0.0,
+    "rot_y": 0.0,
+    "rot_z": -123.0,
+    "color": "#4a004a4a",
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "name": "rfs",
+    "image_a": "flippers_shadow",
+    "image_b": "",
+    "alpha": 100,
+    "modulate_vs_add": 0.9,
+    "is_visible": true,
+    "add_blend": false,
+    "is_dmd": false,
+    "display_texture": false,
+    "depth_bias": 0.0,
+    "image_alignment": 1,
+    "filter": 2,
+    "filter_amount": 100,
+    "light_map": null,
+    "drag_points": [
+      {
+        "x": 564.0369,
+        "y": 1693.3022,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      },
+      {
+        "x": 523.37036,
+        "y": 1946.6361,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      },
+      {
+        "x": 648.7035,
+        "y": 1947.3019,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      },
+      {
+        "x": 618.7036,
+        "y": 1690.6354,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": "",
+        "editor_layer_visibility": true
+      }
+    ]
+  }
+}

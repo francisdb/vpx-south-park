@@ -19,6 +19,6 @@
     "image": "",
     "surface": "RightRampMade",
     "name": "sw26spinner",
-    "is_reflection_enabled": null
+    "is_reflection_enabled": true
   }
 }
