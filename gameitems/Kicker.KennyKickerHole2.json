@@ -1,0 +1,22 @@
+{
+  "Kicker": {
+    "center": {
+      "x": 654.625,
+      "y": 395.125
+    },
+    "radius": 25.0,
+    "is_timer_enabled": false,
+    "timer_interval": 10,
+    "material": "",
+    "surface": "",
+    "is_enabled": true,
+    "name": "KennyKickerHole2",
+    "kicker_type": 0,
+    "scatter": 0.0,
+    "hit_accuracy": 0.8,
+    "hit_height": 40.0,
+    "orientation": 0.0,
+    "fall_through": false,
+    "legacy_mode": true
+  }
+}

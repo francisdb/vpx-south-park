@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -260.25,
+      "y": 1929.375
+    },
+    "is_timer_enabled": false,
+    "timer_interval": 9,
+    "name": "LevelT2",
+    "backglass": false
+  }
+}

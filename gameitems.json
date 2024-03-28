@@ -1,0 +1,2942 @@
+[
+  {
+    "file_name": "Trigger.Trigger6.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.PlungerLaneMetal.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flasher.GiFlasher1.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Light.Gi4.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi3.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Trigger.Trigger1.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flipper.FlipperLeft.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall1.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall2.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall3.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall4.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall5.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flipper.FlipperRight.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.Peg4.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.Peg7.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.Peg8.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.Peg9.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.Rubber1.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Bumper.RightBumper.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Bumper.BottomBumper.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Bumper.LeftBumper.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.sw60wire.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.sw61wire.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.sw58wire.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.sw57wire.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.LSling.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.RSling.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.Korpus.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Ramp.Ramp16.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Ramp.Ramp15.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber4.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber1.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall12.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber2.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber3.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall13.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber5.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber6.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall14.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber7.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber8.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall15.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.Wall16.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.Wall17.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.Wall18.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.Wall19.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber9.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber10.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall20.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber11.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber12.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall21.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber13.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber14.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall22.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber15.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber16.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall23.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber17.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber18.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall24.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Rubber.RubberTemp1.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall25.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber19.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber20.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber21.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber22.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Rubber.Rubber4.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.Rubber5.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.Rubber7.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.Rubber6.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.Rubber8.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.RubberTemp2.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall9.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber23.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber24.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall27.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber25.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber26.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall28.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber27.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber28.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Rubber.Rubber9.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall29.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Rubber.Rubber10.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall31.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Rubber.Rubber11.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall32.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Rubber.Rubber12.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall33.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.Wall34.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.WallRubber29.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.WallRubber30.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall35.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.Wall36.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.PegMetalT6.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall37.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.Rubber13.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.Rubber14.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.Rubber15.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.Rubber16.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall39.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Ramp.LockDownBar.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall10.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.Apron.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Primitive.PlungerCover.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.ApronDecalMitte.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.ApronDecalRechts.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.ApronDecalLinks.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.ApronDecalRules.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.ApronDecalAmusement.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.Wirelanes.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Primitive.PlasticMitteRechts.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.MetalPegs.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Primitive.PlasticUntenRechts.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.PlasticUntenLinks.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.PlasticMitteLinks.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.PlasticObenLinks.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.PlasticObenRechts.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.PlasticKloRechts.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.PlasticKloLinks.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.PlasticKennyKlein.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.PlasticSlingShotRechts.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.PlasticSlingShotLinks.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.PlasticInlaneRechts.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.PlasticInlaneLinks.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.PlasticKennyRampe.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.DecalTopLeftRamp.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.DecalTodaysHotLunch.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.DecalRightRamp.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.Schrauben.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.wasserwaage.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.CartmanRamp.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.ChefWireRamp.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.BumperCap.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.BumperCap1.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.BumperCap2.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.DecalBumper.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.DecalBumper1.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.DecalBumper2.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.FlipperLeftP.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.FlipperRightP.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.postsockel.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.KennyHole.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.CartmanLoch.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.DTMephisto.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.DTGrandpa.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.DTMsCartman.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.DTMayor.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.DTBarbrady.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.DTHugo.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.DTJ.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.DTH.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.DTSirJohn.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.KickerChef.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.CartmanHoleWall.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.Gate.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.RampFlap.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.DTMrMackey.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.DTMrGarrison.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.DTWendy.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.FlasherCapRed.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.FlasherCapYellow.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.FlasherPlastic.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.F6a.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.FlasherCapChef.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.Eric.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.Kyle.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.Token.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.Butters.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.Chef.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.Stan.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.Ike.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.MrHankey.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.Kenny.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.Timmy.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.Toilette.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.cistern.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.ToiletSeat.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.BulbGreenLeft.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.BulbGreenRight.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.BulbCoverToiletteLeft.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.BulbCoverToiletteRight.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.BulbCoverKennyRed.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.BulbCoverKennyYellow.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.RampPeg.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.RampPeg1.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.RampPeg2.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.RampPeg3.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.RampPeg4.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.RampPeg5.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.RampPeg6.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.RampPeg7.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.RampPeg8.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.PlasticSmallCartman.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.PlasticTransLeftOrbit.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.PlasticTransKenny.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.LeftRamp.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.RightRamp.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.sw26wire.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.sw25wire.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.WireBumpers.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.WirePlungerLane.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Kicker.BallRelease.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Gate.Gate1.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Timer.PinMameTimer.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Timer.PulseTimer.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.PlungerWall.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Kicker.Drain.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.sw16wire.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.sw47wire.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Trigger.sw60.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Trigger.sw61.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Trigger.sw58.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Trigger.sw57.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.Sling2.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Wall.Wall7.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall8.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall11.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall40.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.SLING1.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Rubber.LSling2.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.LSling1.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.RSling2.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.RSling1.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.RightSlingShot.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.LeftSlingShot.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.T17.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.T18.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.T19.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.T20.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.T21.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.T23.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.T22.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.T24.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.T36.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.T35.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.T34.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Wall.T37.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.T38.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Trigger.sw47.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Gate.BumperGate.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Gate.PlungerLaneGate.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.RightRampEnter.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Trigger.sw25.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Spinner.sw25spinner.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Trigger.sw26.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.RightRampMade.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Spinner.sw26spinner.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.sw46.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall41.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall42.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall43.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Ramp.Ramp2.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.CartmanKickerHole.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.sw45.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Ramp.Ramp3.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Ramp.Ramp4.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Ramp.Ramp5.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall44.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Ramp.Ramp6.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Ramp.Ramp7.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall45.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall46.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall47.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall48.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Ramp.Ramp8.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.ToiletSeatWall.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall6.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Trigger.sw42.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.KennyKickerHole.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Wall.Wall50.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.KennyKickerHole1.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Kicker.KennyKickerHole2.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Timer.updatekennydead.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Timer.updatekennyleft.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Timer.updatekennyright.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flipper.ToiletFlipper.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.ToiletSeatWallKicker.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Kicker.ToiletKicker.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Flipper.cisternflipper.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flipper.MrHankeyFlipper.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Light.l24.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l9.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l33.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l17.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l25.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l1.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l34.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l35.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l36.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l37.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l21.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l29.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l5.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l13.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l10.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l11.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l12.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l18.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l19.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l20.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l2.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l3.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l4.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.Gis1.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis2.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis3.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis4.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis5.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis8.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis9.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis10.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis11.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis12.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis13.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis14.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis15.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis16.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis17.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis18.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis19.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis20.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis21.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis22.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis23.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis24.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis25.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis26.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis27.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis28.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis29.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis30.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis31.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis32.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis33.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gis34.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Light.Gi5.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi6.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi1.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi2.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi7.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi8.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi9.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi10.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi11.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi12.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi13.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi14.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi15.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi16.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi17.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi18.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi19.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi20.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi21.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi22.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi23.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi24.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi25.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi26.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.Gi27.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Light.l26.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l27.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l28.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l14.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Timer.RGBTimer.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Light.l57.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l58.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l59.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l60.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l61.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l62.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l8.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l6.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l7.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l41.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l42.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l43.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l44.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l45.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l50.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l51.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l52.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l16.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l56.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l53.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l15.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l63.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l64.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Primitive.KennyL.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Light.l30.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Light.l22.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Light.l23.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Light.l46.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Light.l48.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.BulbGreenLeftL.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.BulbGreenRightL.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.BulbCoverKennyRedL.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Primitive.BulbCoverKennyYellowL.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Light.l54.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.l55.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Ramp.Ramp1.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Rubber.Rubber2.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Rubber.Rubber3.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Rubber.Rubber17.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Rubber.Rubber18.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Rubber.Rubber19.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Rubber.Rubber20.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Rubber.Rubber21.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.LeftRampColl.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Rubber.Rubber22.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Rubber.Rubber23.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall49.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.RightRampColl.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.FPa.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Light.F8.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Light.Fpb.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.FPc.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.FPd.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.F6b.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Primitive.F6a1.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Light.F18.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Flasher.flasherf6.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flasher.flasherf18.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flasher.flasherf8.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flasher.FlasherFPa.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flasher.flasherf18a.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall51.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall52.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall53.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Primitive.DTNed.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Light.F1.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.F1a.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.F2.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.F2a.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.F3.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.F3a.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.F4.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.F4a.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.F5.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Light.F5a.json",
+    "is_locked": true,
+    "editor_layer": 2
+  },
+  {
+    "file_name": "Primitive.BulbCoverToiletteLeftOn.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Primitive.BulbCoverToiletteRightOn.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Light.F7r.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Light.F7l.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flasher.flasherf7.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flasher.FlasherF6a.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Light.RingLight1.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight2.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight3.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight4.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight5.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight6.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight7.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight8.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight9.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight10.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight11.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight12.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight13.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight14.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight15.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight16.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight17.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight18.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight19.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight20.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight21.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight22.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight23.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight24.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight25.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight26.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight27.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight28.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight29.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight30.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight31.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight32.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight33.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight34.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight35.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight36.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight37.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight38.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight39.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight40.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight41.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight42.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight43.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight44.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight45.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight46.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight47.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.RingLight48.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.l38.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Light.l39.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Light.l40.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Timer.LevelT2.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Timer.LevelT3.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Timer.LevelT4.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Kicker.ckicker.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.LeftHit.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.RightHit.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall56.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.Wall57.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Light.Gi28.json",
+    "is_locked": true,
+    "editor_layer": 5
+  },
+  {
+    "file_name": "Flasher.GiFlasher3.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher4.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher5.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher6.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher7.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher8.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher9.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher10.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher11.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher14.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher15.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher17.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher18.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher19.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Timer.FlasherTimer1.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Timer.FlasherTimer2.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Trigger.CartmanWireStart.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Flasher.GiFlasher12.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher13.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher16.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.GiFlasher20.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.FlasherF7a.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Ramp.Ramp9.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.Wall38.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Wall.LeftRampHoleBase.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.LeftRampBase.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.LeftRampInlaneBase.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Trigger.Trigger3.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Trigger.Trigger4.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Trigger.Trigger5.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Rubber.Rubber26.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Rubber.Rubber27.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flasher.BulbCoverKennyYellowF.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Flasher.BulbCoverKennyRedF.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Flasher.BulbGreenRightF.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Flasher.BulbGreenLeftF.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Light.l30a.json",
+    "is_locked": true,
+    "editor_layer": 3
+  },
+  {
+    "file_name": "Flipper.KennyFlipper.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Ramp.Ramp10.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Ramp.Ramp11.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Ramp.Ramp12.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Ramp.Ramp13.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Trigger.CartmanWireEnd.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Wall.RightRampInlane.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Trigger.BallTrigger.json",
+    "is_locked": false,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Ramp.Ramp17.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flasher.GiFlasher2.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Trigger.sw16.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Plunger.Plunger.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Trigger.StopSoundRamp.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Trigger.StopSoundRamp1.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.CartmanKickerHole2.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.CartmanKickerHole3.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.CartmanKickerHole5.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.CartmanKickerHole6.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.CartmanKickerHole7.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.CartmanKickerHole4.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.CartmanKickerHole1.json",
+    "is_locked": true,
+    "editor_layer": 1
+  },
+  {
+    "file_name": "Kicker.KennyKickerHole3.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Kicker.KennyKickerHole4.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Kicker.KennyKickerHole5.json",
+    "is_locked": true,
+    "editor_layer": 6
+  },
+  {
+    "file_name": "Ramp.Ramp14.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp18.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp19.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp20.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp21.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp22.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp23.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp24.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp25.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp26.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp27.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp28.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp29.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp30.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp31.json",
+    "is_locked": true,
+    "editor_layer": 4
+  },
+  {
+    "file_name": "Ramp.Ramp32.json",
+    "is_locked": true,
+    "editor_layer": 0
+  },
+  {
+    "file_name": "Flasher.BumperFlasher.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.BulbCoverKennyRedF1.json",
+    "is_locked": true,
+    "editor_layer": 7
+  },
+  {
+    "file_name": "Flasher.BulbCoverKennyYellowF1.json",
+    "is_locked": true,
+    "editor_layer": 6
+  }
+]

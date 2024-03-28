@@ -1,0 +1,81 @@
+{
+  "Flasher": {
+    "height": 255.0,
+    "pos_x": 948.0,
+    "pos_y": 466.19318,
+    "rot_x": 0.0,
+    "rot_y": -90.0,
+    "rot_z": 0.0,
+    "color": "#ff000000",
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "name": "BulbCoverKennyRedF1",
+    "image_a": "flw",
+    "image_b": "flw",
+    "alpha": 500,
+    "modulate_vs_add": 0.9,
+    "is_visible": false,
+    "add_blend": true,
+    "is_dmd": false,
+    "display_texture": false,
+    "depth_bias": 0.0,
+    "image_alignment": 1,
+    "filter": 2,
+    "filter_amount": 100,
+    "light_map": null,
+    "drag_points": [
+      {
+        "x": 701.8817,
+        "y": 226.19298,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": null,
+        "editor_layer_visibility": null
+      },
+      {
+        "x": 701.8817,
+        "y": 706.1932,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": null,
+        "editor_layer_visibility": null
+      },
+      {
+        "x": 1181.882,
+        "y": 706.1933,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": null,
+        "editor_layer_visibility": null
+      },
+      {
+        "x": 1181.882,
+        "y": 226.19298,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": null,
+        "editor_layer_visibility": null
+      }
+    ]
+  }
+}

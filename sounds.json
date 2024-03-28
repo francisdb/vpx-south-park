@@ -1,0 +1,560 @@
+[
+  {
+    "name": "flip_hit_1",
+    "path": "C:\\VPX\\sounds\\flip_hit_1.wav",
+    "internal_name": "flip_hit_1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "flip_hit_2",
+    "path": "C:\\VPX\\sounds\\flip_hit_2.wav",
+    "internal_name": "flip_hit_2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "flip_hit_3",
+    "path": "C:\\VPX\\sounds\\flip_hit_3.wav",
+    "internal_name": "flip_hit_3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling0",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling0",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling1",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling2",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling3",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling4",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling4",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling5",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling5",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling6",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling6",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling7",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling7",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling8",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling8",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling9",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling9",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling10",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling10",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling11",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling11",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling12",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling12",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling13",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\tablerolling1.wav",
+    "internal_name": "fx_ballrolling13",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_collide",
+    "path": "C:\\VPX\\sounds\\fx_collide.wav",
+    "internal_name": "fx_collide",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_rubber2",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\fx_rubber2.1.wav",
+    "internal_name": "fx_rubber2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "gate",
+    "path": "C:\\VPX\\sounds\\gate.wav",
+    "internal_name": "gate",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "gate4",
+    "path": "C:\\VPX\\sounds\\gate4.wav",
+    "internal_name": "gate4",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "kicker_enter_center",
+    "path": "C:\\VPX\\sounds\\kicker_enter_center.wav",
+    "internal_name": "kicker_enter_center",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "knocker",
+    "path": "C:\\VPX\\sounds\\knocker.wav",
+    "internal_name": "knocker",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "metalhit_medium",
+    "path": "C:\\VPX\\sounds\\metalhit_medium.wav",
+    "internal_name": "metalhit_medium",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "metalhit2",
+    "path": "C:\\VPX\\sounds\\metalhit2.wav",
+    "internal_name": "metalhit2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "plunger",
+    "path": "C:\\VPX\\sounds\\plunger.wav",
+    "internal_name": "plunger",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "plungerpull",
+    "path": "C:\\VPX\\sounds\\plungerpull.wav",
+    "internal_name": "plungerpull",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "popper_ball",
+    "path": "C:\\VPX\\sounds\\popper_ball.wav",
+    "internal_name": "popper_ball",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "rubber_hit_1",
+    "path": "C:\\VPX\\sounds\\rubber_hit_1.wav",
+    "internal_name": "rubber_hit_1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "rubber_hit_2",
+    "path": "C:\\VPX\\sounds\\rubber_hit_2.wav",
+    "internal_name": "rubber_hit_2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "rubber_hit_3",
+    "path": "C:\\VPX\\sounds\\rubber_hit_3.wav",
+    "internal_name": "rubber_hit_3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "target",
+    "path": "C:\\VPX\\sounds\\target.wav",
+    "internal_name": "target",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "BallRelease",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Sounds\\BallRelease.wav",
+    "internal_name": "ballrelease",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "Balltruhe",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Sounds\\Balltruhe.wav",
+    "internal_name": "balltruhe",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "FlipperDown",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Sounds\\FlipperDown.wav",
+    "internal_name": "flipperdown",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "FlipperUpLeft",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Sounds\\FlipperUpLeft.wav",
+    "internal_name": "flipperupleft",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "FlipperUpRightBoth",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\FlipperUpRight.wav",
+    "internal_name": "flipperuprightboth",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "BumperLeft",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Sounds\\BumperLeft.wav",
+    "internal_name": "bumperleft",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "BumperRight",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Sounds\\BumperRight.wav",
+    "internal_name": "bumperright",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "BumperMiddle",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Sounds\\BumperMiddle.wav",
+    "internal_name": "bumpermiddle",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "SlingshotLeft",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Sounds\\SlingshotLeft.wav",
+    "internal_name": "slingshotleft",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "SlingshotRight",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Sounds\\SlingshotRight.wav",
+    "internal_name": "slingshotright",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "SafeHouseHit",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Sounds\\SafeHouseHit.wav",
+    "internal_name": "safehousehit",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "SafeHouseKick",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Sounds\\SafeHouseKick.wav",
+    "internal_name": "safehousekick",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "BallDrop",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Sounds\\BallDrop.wav",
+    "internal_name": "balldrop",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "WireRamp",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\WireRamp.wav",
+    "internal_name": "wireramp",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "metalhit_thin",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\metalhit_thin.wav",
+    "internal_name": "metalhit_thin",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "AutoPlunger",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\Plunger.wav",
+    "internal_name": "autoplunger",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "KennyHole3",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\KennyHole3.wav",
+    "internal_name": "kennyhole3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "KennyHole2",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\KennyHole2.wav",
+    "internal_name": "kennyhole2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "KennyHole1",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\KennyHole1.wav",
+    "internal_name": "kennyhole1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "CartmanHole3",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\CartmanHole3.wav",
+    "internal_name": "cartmanhole3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "CartmanHole2",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\CartmanHole2.wav",
+    "internal_name": "cartmanhole2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "CartmanHole1",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\CartmanHole1.wav",
+    "internal_name": "cartmanhole1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "CartmanHole4",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\CartmanHole4.wav",
+    "internal_name": "cartmanhole4",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "TrapDoorLow",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\TrapDoorLow.wav",
+    "internal_name": "trapdoorlow",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "KickandWire",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\KickandWire.wav",
+    "internal_name": "kickandwire",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "DiverterLeft",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\DiverterLeft.wav",
+    "internal_name": "diverterleft",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "KennyMove3",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\KennyMove3.wav",
+    "internal_name": "kennymove3",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "KennyMove2",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\KennyMove2.wav",
+    "internal_name": "kennymove2",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "KennyMove1",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\KennyMove1.wav",
+    "internal_name": "kennymove1",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "plasticrolling",
+    "path": "C:\\Users\\Adam Pritz\\Desktop\\plasticrolling.wav",
+    "internal_name": "plasticrolling",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  }
+]

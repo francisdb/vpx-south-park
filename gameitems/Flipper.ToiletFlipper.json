@@ -1,0 +1,42 @@
+{
+  "Flipper": {
+    "center": {
+      "x": -84.5,
+      "y": 295.0
+    },
+    "base_radius": 15.0,
+    "end_radius": 5.0,
+    "flipper_radius_max": 10.0,
+    "return_": 0.07,
+    "start_angle": 90.0,
+    "end_angle": 170.0,
+    "override_physics": 0,
+    "mass": 2.0,
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "surface": "",
+    "material": "Ë¡\u0007D5>Cìi\bD\u001aOCìi\bD\u001aOCË¡\u0007D5>C22",
+    "name": "ToiletFlipper",
+    "rubber_material": "5>CË¡\u0007D5>CË¡\u0007D5>Cìi\bD\u001aOCË¡\u0007D",
+    "rubber_thickness_int": 7,
+    "rubber_thickness": 7.0,
+    "rubber_height_int": 19,
+    "rubber_height": 19.0,
+    "rubber_width_int": 24,
+    "rubber_width": 24.0,
+    "strength": 200.0,
+    "elasticity": 0.8,
+    "elasticity_falloff": 0.43,
+    "friction": 0.6,
+    "ramp_up": 0.07,
+    "scatter": 0.0,
+    "torque_damping": null,
+    "torque_damping_angle": null,
+    "flipper_radius_min": 0.0,
+    "is_visible": false,
+    "is_enabled": true,
+    "height": 50.0,
+    "image": "",
+    "is_reflection_enabled": false
+  }
+}

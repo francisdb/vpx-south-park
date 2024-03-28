@@ -1,0 +1,78 @@
+{
+  "Trigger": {
+    "center": {
+      "x": 769.0,
+      "y": 1209.0
+    },
+    "radius": 26.0,
+    "rotation": 0.0,
+    "wire_thickness": 0.0,
+    "scale_x": 1.0,
+    "scale_y": 1.0,
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "material": "fkA­]A­]A­]A'A'AfkAGfA",
+    "surface": "Ramp3",
+    "is_visible": false,
+    "is_enabled": true,
+    "hit_height": 50.0,
+    "name": "CartmanWireStart",
+    "shape": 2,
+    "anim_speed": 1.0,
+    "is_reflection_enabled": false,
+    "drag_points": [
+      {
+        "x": 739.0,
+        "y": 1179.0,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": null,
+        "editor_layer_visibility": null
+      },
+      {
+        "x": 739.0,
+        "y": 1239.0,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": null,
+        "editor_layer_visibility": null
+      },
+      {
+        "x": 799.0,
+        "y": 1239.0,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": null,
+        "editor_layer_visibility": null
+      },
+      {
+        "x": 799.0,
+        "y": 1179.0,
+        "z": 0.0,
+        "smooth": false,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": null,
+        "editor_layer_visibility": null
+      }
+    ]
+  }
+}

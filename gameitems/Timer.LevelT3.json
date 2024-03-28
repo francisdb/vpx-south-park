@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -261.75,
+      "y": 1972.875
+    },
+    "is_timer_enabled": false,
+    "timer_interval": 10,
+    "name": "LevelT3",
+    "backglass": false
+  }
+}

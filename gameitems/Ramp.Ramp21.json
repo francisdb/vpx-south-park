@@ -1,0 +1,62 @@
+{
+  "Ramp": {
+    "height_bottom": 0.0,
+    "height_top": 0.0,
+    "width_bottom": 7.0,
+    "width_top": 7.0,
+    "material": "",
+    "is_timer_enabled": false,
+    "timer_interval": 100,
+    "ramp_type": 0,
+    "name": "Ramp21",
+    "image": "plastic_ramp_2012",
+    "image_alignment": 1,
+    "image_walls": true,
+    "left_wall_height": 50.0,
+    "right_wall_height": 50.0,
+    "left_wall_height_visible": 50.0,
+    "right_wall_height_visible": 50.0,
+    "hit_event": null,
+    "threshold": null,
+    "elasticity": 0.3,
+    "friction": 0.2,
+    "scatter": 0.0,
+    "is_collidable": true,
+    "is_visible": false,
+    "depth_bias": 0.0,
+    "wire_diameter": 6.0,
+    "wire_distance_x": 38.0,
+    "wire_distance_y": 88.0,
+    "is_reflection_enabled": false,
+    "physics_material": null,
+    "overwrite_physics": null,
+    "drag_points": [
+      {
+        "x": 434.8125,
+        "y": 388.125,
+        "z": 0.0,
+        "smooth": true,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": null,
+        "editor_layer_visibility": null
+      },
+      {
+        "x": 464.8125,
+        "y": 113.375,
+        "z": 0.0,
+        "smooth": true,
+        "is_slingshot": false,
+        "has_auto_texture": true,
+        "tex_coord": 0.0,
+        "is_locked": false,
+        "editor_layer": 0,
+        "editor_layer_name": null,
+        "editor_layer_visibility": null
+      }
+    ]
+  }
+}

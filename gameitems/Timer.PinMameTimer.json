@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": -178.0,
+      "y": 2015.0
+    },
+    "is_timer_enabled": true,
+    "timer_interval": 1,
+    "name": "PinMameTimer",
+    "backglass": false
+  }
+}

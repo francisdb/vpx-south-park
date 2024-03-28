@@ -1,0 +1,30 @@
+{
+  "Gate": {
+    "center": {
+      "x": 835.0,
+      "y": 1322.5625
+    },
+    "length": 100.0,
+    "height": 55.0,
+    "rotation": -34.5,
+    "material": "",
+    "is_timer_enabled": false,
+    "show_bracket": false,
+    "is_collidable": true,
+    "timer_interval": 100,
+    "imgf": null,
+    "imgb": null,
+    "surface": "",
+    "elasticity": 0.3,
+    "angle_max": 1.5707964,
+    "angle_min": 0.0,
+    "friction": 0.02,
+    "damping": 0.985,
+    "gravity_factor": null,
+    "is_visible": false,
+    "name": "PlungerLaneGate",
+    "two_way": false,
+    "is_reflection_enabled": false,
+    "gate_type": "WireW"
+  }
+}

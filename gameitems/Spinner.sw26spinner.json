@@ -1,0 +1,24 @@
+{
+  "Spinner": {
+    "center": {
+      "x": 767.0,
+      "y": 65.9375
+    },
+    "rotation": -90.0,
+    "is_timer_enabled": false,
+    "timer_interval": 10,
+    "height": 60.0,
+    "length": 90.0,
+    "damping": 0.95,
+    "angle_max": 66.0,
+    "angle_min": -66.0,
+    "elasticity": 0.3,
+    "is_visible": false,
+    "show_bracket": false,
+    "material": "",
+    "image": "",
+    "surface": "RightRampMade",
+    "name": "sw26spinner",
+    "is_reflection_enabled": null
+  }
+}

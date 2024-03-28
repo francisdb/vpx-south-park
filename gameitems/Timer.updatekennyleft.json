@@ -1,0 +1,12 @@
+{
+  "Timer": {
+    "center": {
+      "x": 1050.5,
+      "y": 203.5
+    },
+    "is_timer_enabled": false,
+    "timer_interval": 10,
+    "name": "updatekennyleft",
+    "backglass": false
+  }
+}
